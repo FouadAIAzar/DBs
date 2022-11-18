@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1289,,,,BRCA2,,,
+1486,,,,BRCA2,,,
+1679,,,Hereditary paraganglioma,BRCA2,"c.241T>G, p.(Phe81Val), unknown / other, Uncertain significance","SDHB, c.136C>T, p.(Arg46*), autosomal dominant, Pathogenic","HP:0002668,HP:0002668"
+2180,,,,BRCA2,"c.126 T>A, p.(Tyr42*), Y-linked, Uncertain significance","ACTL6B, c.1279delT, p.(*427Aspext*33), unknown / other, Uncertain significance",
+3291,,,pathogenic gene BRCA2,BRCA2,"c.4284dupT, p.(Gln1429Serfs*9), unknown / other, Pathogenic",,"HP:0003002,HP:0002664,HP:0003002,HP:0002664"
+6027,,,,BRCA2,,"ACTA2, autosomal dominant, Risk factor; ACTC1, autosomal dominant, Risk factor; BRCA1, unknown / other, Uncertain significance; APC, autosomal dominant, Uncertain significance",

@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+778,,,,CDC42,"c.556C>T, p.(Arg186Cys), de novo, Likely pathogenic",,"HP:0001873,HP:0001433,HP:0002721,HP:0002716,HP:0001875,HP:0001903,HP:0001945"
+1472,,,,CDC42,,,"HP:0000152,HP:0000707"
+3666,,,,CDC42,"c.247T>C, p.(Ser83Pro), de novo, Pathogenic",,HP:0000256
+3694,,,,CDC42,"c.476C>T, p.(Ala159Val), de novo, Pathogenic",,HP:0000252
+5509,,,CDC42-Related Disorder,CDC42,"c.124 G>A, p.(Val42Ile), unknown / other, Likely pathogenic",,"HP:0001680,HP:0000047,HP:0001263"

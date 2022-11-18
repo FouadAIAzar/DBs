@@ -1,0 +1,8 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1562,,615369,"childhood onset epileptic encephalopathy,Epileptic Encephalopathy, Childhood-Onset,Epileptic encephalopathy, childhood-onset",CHD2,"c.2785G>C, p.(Ala929Pro), de novo, Uncertain significance",,"HP:0010864,HP:0001250,HP:0000717"
+1647,,,Epilepsy,CHD2,"c.1396C>T, p.(Arg466*), autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0001263,HP:0000717,HP:0001250"
+1778,,,,CHD2,,,HP:0000707
+1948,,,,CHD2,"c.5202A>C, p.(Gln1734His), de novo, Uncertain significance",,"HP:0002354,HP:0000587,HP:0002793,HP:0001250,HP:0000504,HP:0100022,HP:0002353,HP:0100543,HP:0100543,HP:0002354,HP:0000587"
+2923,,,CHASERR,CHD2,"c.-367G>C, p.(=), de novo, Likely pathogenic","CITED2, de novo, Uncertain significance; TNFAIP3, de novo, Uncertain significance; LINC01578, de novo, Uncertain significance","HP:0001263,HP:0012443,HP:0001250,HP:0002098,HP:0001290,HP:0001662,HP:0001627,HP:0005120,HP:0001631,HP:0001671,HP:0002119,HP:0000980,HP:0007100,HP:0002415,HP:0012532,HP:0012531,HP:0002791,HP:0000076,HP:0000010,HP:0002353,HP:0012469,HP:0003429,HP:0002352"
+3280,,,,CHD2,,,
+3343,,,CHD2,CHD2,,,"HP:0001263,HP:0001250"

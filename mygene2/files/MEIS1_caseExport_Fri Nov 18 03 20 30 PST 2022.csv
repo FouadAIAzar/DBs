@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1919,,,,MEIS1,"c.786delC, p.(Asp262Glufs*21), de novo, Uncertain significance",,"HP:0002835,HP:0002020,HP:0001252,HP:0002194,HP:0002020,HP:0001252,HP:0001382,HP:0002194,HP:0008755,HP:0011968,HP:0002020"
+2551,,,,MEIS1,,,HP:0100763
+3931,,,foveal hypoplasia,MEIS1,,,"HP:0001107,HP:0001022,HP:0007750"

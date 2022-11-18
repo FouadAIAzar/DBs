@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+54,,,,CLCN1,"c.444dupG, p.(Ser149Valfs*110), autosomal dominant, Suspected pathogenic",,"HP:0000411,HP:0012385,HP:0000211,HP:0000486,HP:0000508,HP:0000286,HP:0004322"
+3475,,,,CLCN1,,,
+4008,,,myotonia congenita,CLCN1,"c.854G>A, p.(Gly285Glu), autosomal recessive (compound heterozygous), Pathogenic; c.180+3A>T, , autosomal recessive (compound heterozygous), Pathogenic",,"HP:0002527,HP:0012514,HP:0033050,HP:0031955,HP:0002486,HP:0003470,HP:0002900"

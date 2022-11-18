@@ -1,0 +1,9 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3500,,,,COL12A1,"c.4120A>G, p.(Asn1374Asp), de novo, Uncertain significance",,"HP:0001507,HP:0000924"
+3967,,,,COL12A1,"c.4980 C>G, p.(Asn1660Lys), de novo, Uncertain significance","FLNC, c.3458 T>G, p.(Phe1153Cys), unknown / other, Uncertain significance","HP:0011419,HP:0002791,HP:0002194,HP:0001324,HP:0001270,HP:0000717,HP:0002015,HP:0002870,HP:0010535,HP:0002104,HP:0002312,HP:0001252"
+3988,,,,COL12A1,"c.2968 G>T, p.(Asp990Tyr), unknown / other, Uncertain significance",,
+5011,,,,COL12A1,"c.6473C>T, p.(Pro2158Leu), unknown / other, Uncertain significance",,"HP:0002761,HP:0012532,HP:0033050,HP:0001324,HP:0025406"
+5106,,,,COL12A1,"c.1775C>T, p.(Ala592Val), unknown / other, Uncertain significance","MED12, c.3210G>T, p.(Arg1070Ser), unknown / other, Uncertain significance",
+5480,,,,COL12A1,"c.9187G>A, p.(Gly3063Ser), autosomal dominant, Uncertain significance",,
+5564,,,,COL12A1,"c.4616C>T, p.(Thr1539Met), autosomal dominant, Uncertain significance","COL5A1, c.4175G>A, p.(Arg1392Lys), autosomal dominant, Uncertain significance; FBLN5, c.910A>G, p.(Thr304Ala), autosomal dominant, Uncertain significance; ZNF469, c.9551G>A, p.(Gly3184Glu), autosomal recessive (compound heterozygous), Uncertain significance; ZNF469, autosomal recessive (compound heterozygous), Uncertain significance","HP:0001369,HP:0002091,HP:0002088,HP:0003198,HP:0012532,HP:0033050"
+5672,,,,COL12A1,"c.1988A>G, p.(His663Arg), unknown / other, Uncertain significance",,"HP:0003549,HP:0003198,HP:0004942,HP:0004970,HP:0004963,HP:0001659,HP:0001251,HP:0001268,HP:0012332,HP:0001271"

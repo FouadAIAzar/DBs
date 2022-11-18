@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1659,,,,PTEN,"c.802-2A>T, , autosomal dominant, Pathogenic","ABCC6, unknown / other, Uncertain significance; STAT1, unknown / other, Uncertain significance",
+2177,,,,PTEN,"c.79+2464G>A, , unknown / other, Uncertain significance",,"HP:0000717,HP:0000256"
+3650,,,,PTEN,"c.810G>T, p.(Met270Ile), de novo, Pathogenic",,HP:0002538
+5412,,,PTEN,PTEN,"c.596 T>C, p.(Met199Thr), unknown / other, Uncertain significance",,HP:0000717
+5799,,,Autism Spectrum Disorder,PTEN,"c.517 C>T, p.(Arg173Cys), autosomal dominant, Pathogenic",,"HP:0001252,HP:0001263,HP:0000729,HP:0000256,HP:0000717"
+5876,,,,PTEN,,"GLDC, unknown / other, Pathogenic","HP:0001254,HP:0000717"

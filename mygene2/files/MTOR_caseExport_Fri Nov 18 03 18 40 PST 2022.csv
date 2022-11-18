@@ -1,0 +1,9 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3084,,,Smith-Kingmore Syndrome OMIM:616638,MTOR,"c.7391G>T, p.(Gly2464Val), de novo, Likely pathogenic",,"HP:0000739,HP:0012443,HP:0002119,HP:0000256,HP:0001263,HP:0002186,HP:0000717,HP:0011443"
+3655,,,,MTOR,"c.5930C>T, p.(Thr1977Ile), Somatic mosaicism, Pathogenic",,HP:0000256
+3667,,,,MTOR,"c.5664C>A, p.(Phe1888Leu), Somatic mosaicism, Pathogenic",,HP:0000256
+3673,,,,MTOR,"c.5395G>A, p.(Glu1799Lys), de novo, Pathogenic",,HP:0000256
+3681,,,,MTOR,"c.985G>A, p.(Ala329Thr), Somatic mosaicism, Pathogenic",,HP:0000256
+3695,,,,MTOR,"c.6644C>A, p.(Ser2215Tyr), Somatic mosaicism, Pathogenic",,HP:0000256
+3707,,,,MTOR,"c.4439_4450del, p.(Arg1480_Cys1483del), de novo, Pathogenic",,HP:0000256
+3708,,,,MTOR,"c.4184A>G, p.(Lys1395Arg), de novo, Pathogenic",,HP:0000256

@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+335,,,,TRAPPC11,"c.851A>C, p.(Gln284Pro), autosomal recessive (compound heterozygous), Uncertain significance",,
+544,,,,TRAPPC11,,,"HP:0001249,HP:0000504"
+5090,,,dystonia,TRAPPC11,"c.404T>A, p.(Val135Asp), autosomal dominant, Likely pathogenic",,HP:0001332

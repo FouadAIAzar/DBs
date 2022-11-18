@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+13,,,Wieacker-Wolff Syndrome,SETBP1,"c.684_687dupTCTT, p.(Pro230Argfs*27), autosomal recessive (homozygous), Uncertain significance","ZC4H2, c.617G>A, p.(Cys206Tyr), de novo, Suspected pathogenic",HP:0002804
+233,,,,SETBP1,,"MOCOS, de novo, Likely pathogenic; FHOD3, de novo, Likely pathogenic; CELF4, de novo, Likely pathogenic; PIK3C3, de novo, Likely pathogenic; RIT2, de novo, Pathogenic; SYT4, de novo, Likely pathogenic",
+3899,,,not installed,SETBP1,"c.1871A>G, p.(Lys624Arg), de novo, Uncertain significance","MTFMT, unknown / other, Likely pathogenic; CARMIL2, unknown / other, Uncertain significance","HP:0000750,HP:0001344"

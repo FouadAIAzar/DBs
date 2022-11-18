@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+182,,,,KIF1A,,,"HP:0000717,HP:0001263,HP:0000365,HP:0010529,HP:0001250"
+590,,,KIF1A - related disorder,KIF1A,"c.914C>T, p.(Pro305Leu), de novo, Pathogenic",,"HP:0001272,HP:0100543,HP:0008936,HP:0002313"
+2970,,,Rare KIF1A variant,KIF1A,"c.914C>T, p.(Pro305Leu), autosomal dominant, Likely pathogenic",,"HP:0012531,HP:0001263,HP:0001251,HP:0001321,HP:0000729,HP:0001250"
+3679,,,,KIF1A,"c.3766C>T, p.(Arg1256Trp), de novo, Pathogenic",,HP:0002538

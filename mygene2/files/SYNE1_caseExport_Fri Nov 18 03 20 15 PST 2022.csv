@@ -1,0 +1,9 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3807,,,,SYNE1,,"ABCA7, unknown / other, Uncertain significance; SYNE2, unknown / other, Suspected pathogenic",HP:0009124
+3810,,,,SYNE1,,"LPL, unknown / other, Uncertain significance",HP:0009124
+3812,,,,SYNE1,,"AGPAT2, unknown / other, Uncertain significance; NOTCH1, unknown / other, Uncertain significance",HP:0009124
+3813,,,,SYNE1,,"AGPAT2, unknown / other, Uncertain significance; NOTCH1, unknown / other, Uncertain significance; LIPE, unknown / other, Uncertain significance",HP:0009124
+4113,,,,SYNE1,"c.5852A>G, p.(Gln1951Arg), unknown / other, Uncertain significance","RYR1, c.13476_13487del, p.(Pro4495_Glu4498del), unknown / other, Uncertain significance; GAA, c.271G>A, p.(Asp91Asn), unknown / other, Benign; SYNE2, c.11047T>A, p.(Ser3683Thr), unknown / other, Uncertain significance","HP:0001271,HP:0033748,HP:0003202"
+5399,,,,SYNE1,"c.25237G>A, p.(Glu8413Lys), unknown / other, Uncertain significance","PLEC, c.11107G>C, p.(Ala3703Pro), unknown / other, Uncertain significance; ANO5, de novo, Pathogenic",
+5568,,,,SYNE1,"c.16513T>C, p.(Ser5505Pro), unknown / other, Uncertain significance",,"HP:0001371,HP:0001761,HP:0006466"
+5763,,,,SYNE1,"c.21734C>T, p.(Ala7245Val), unknown / other, Uncertain significance",,"HP:0002487,HP:0033050,HP:0001324,HP:0025406"

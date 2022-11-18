@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3029,,,ASH1L related disorder,ASH1L,,,"HP:0002578,HP:0001263,HP:0002835,HP:0002020,HP:0011968"
+3161,,,,ASH1L,,,"HP:0001250,HP:0001298,HP:0200134"
+3479,,,ASH1L,ASH1L,"c.4902_4903del, p.(Ser1635Cysfs*18), de novo, Pathogenic","TSHZ3, c.1288G>A, p.(Val430Ile), de novo, Uncertain significance; TNR, c.719G>T, p.(Ser240Ile), unknown / other, Uncertain significance; TNR, c.574G>A, p.(Glu192Lys), unknown / other, Uncertain significance","HP:0008763,HP:0000717"
+3487,,,n/a,ASH1L,,,
+3516,,,"Autism, ASH1L",ASH1L,"c.7603C>T, p.(Arg2535*), de novo, Pathogenic",,"HP:0000078,HP:0000717,HP:0000729,HP:0012531,HP:0001061,HP:0010529,HP:0002019,HP:0000708"

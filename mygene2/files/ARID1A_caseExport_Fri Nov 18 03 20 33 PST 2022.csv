@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2317,,,schizencephaly,ARID1A,"c.126_128dup, p.(Ala45dup), de novo, Uncertain significance","RBM27, c.2866C>T, p.(Arg956*), autosomal recessive (homozygous), Uncertain significance","HP:0010636,HP:0002410,HP:0000238,HP:0000238,HP:0001642,HP:0001252,HP:0001047,HP:0001057,HP:0000565,HP:0000478,HP:0001357,HP:0002007,HP:0001631"
+3214,,,,ARID1A,,,HP:0000478
+3507,,609943,Coffin-Siris syndrome 1,ARID1A,"c.1325T>C, p.(Met442Thr), unknown / other, Uncertain significance","ACTA2, c.107T>C, p.(Ile36Thr), unknown / other, Uncertain significance","HP:0030955,HP:0001297,HP:0100021,HP:0001250,HP:0011968,HP:0001508,HP:0008070"
+4979,,,,ARID1A,"c.6292G>A, p.(Glu2098Lys), mitochondrial, Uncertain significance","MT-CO2, m.7730 A>G, p.(Lys49Glu), unknown / other, Uncertain significance","HP:0002015,HP:0001250,HP:0001336,HP:0002119,HP:0000078,HP:0001263,HP:0000256,HP:0001252"

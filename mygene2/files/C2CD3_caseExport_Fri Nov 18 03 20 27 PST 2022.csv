@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1249,26092869,,Joubert Syndrome,C2CD3,"c.4951+1G>T, , autosomal recessive (compound heterozygous), Likely pathogenic; c.5267G>A, p.(Gly1756Glu), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+1251,26092869,,Joubert Syndrome,C2CD3,"c.184C>T, p.(Arg62*), autosomal recessive (homozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+1465,,,,C2CD3,,,"HP:0000707,HP:0000478,HP:0001197,HP:0002813,HP:0000119"
+3305,,,,C2CD3,"c.1964C>A, p.(Pro655Gln), autosomal recessive (compound heterozygous), Uncertain significance; c.4051C>G, p.(His1351Asp), autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0010864,HP:0002514,HP:0000252,HP:0004322,HP:0007633,HP:0001249,HP:0002986,HP:0000518,HP:0011451,HP:0000647,HP:0005855,HP:0009879,HP:0002813,HP:0001511,HP:0001257,HP:0003031,HP:0000519,HP:0001250,HP:0000505,HP:0009124,HP:0001510,HP:0000568,HP:0002273,HP:0001285,HP:0001057,HP:0020110"
+3566,,,bronchiectasis with or without elevated sweat chloride 1,C2CD3,,"MED13, autosomal dominant, Uncertain significance","HP:0012265,HP:0100660,HP:0002110"

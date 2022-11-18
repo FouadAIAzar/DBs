@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1942,,,TRIP12,AARS2,"c.1660C>T, p.(Arg554Cys), unknown / other, Uncertain significance","TRIP12, c.1882C>T, p.(Arg628Cys), de novo, Likely pathogenic; GTPBP3, unknown / other, Uncertain significance; DNM2, c.1161G>T, p.Glu387Asp, unknown / other, Uncertain significance","HP:0000717,HP:0000750,HP:0012448,HP:0001249,HP:0001249,HP:0002415,HP:0000717,HP:0001337,HP:0002415,HP:0001249,HP:0001250,HP:0002791"
+2111,,,,AARS2,,,
+3728,,,"leukoencephalopathy, progressive, with ovarian failure",AARS2,,,"HP:0001945,HP:0001903,HP:0000639,HP:0002373,HP:0001250,HP:0001954"

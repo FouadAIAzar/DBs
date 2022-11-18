@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2414,,,,TRRAP,"c.3493A>G, p.(Lys1165Glu), unknown / other, Suspected pathogenic",,"HP:0000377,HP:0001592,HP:0000252,HP:0001290"
+3502,,,developmental delay with or without dysmorphic facies and autism,TRRAP,"c.3127G>A, p.(Ala1043Thr), autosomal dominant, Pathogenic",,"HP:0012443,HP:0410030,HP:0001539,HP:0001627,HP:0000202"
+3561,,,,TRRAP,"c.9032C>T, p.(Ala3011Val), unknown / other, Uncertain significance","KCNT1, c.773G>A, p.(Arg258His), unknown / other, Uncertain significance; KMT2A, c.6794C>T, p.(Thr2265Ile), unknown / other, Uncertain significance; AGO2, c.2375G>A, p.(Arg792His), unknown / other, Uncertain significance","HP:0000729,HP:0001252,HP:0000252,HP:0001263,HP:0000717"
+4142,,,TRRAP-Related Disorder,TRRAP,"c.5767 A>G, p.(Met1923Val), de novo, Likely pathogenic",,"HP:0000589,HP:0000588,HP:0001252,HP:0001263,HP:0001195,HP:0000384,HP:0000729,HP:0001250"

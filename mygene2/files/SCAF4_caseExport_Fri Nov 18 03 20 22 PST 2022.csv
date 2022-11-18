@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1624,,,,SCAF4,"c.3037C>T, p.(Arg1013Trp), unknown / other, Uncertain significance","NCAPH2, c.1024delT, p.(Cys342Valfs*56), unknown / other, Uncertain significance",HP:0009830
+3560,,,,SCAF4,"c.707C>T, p.(Thr236Ile), de novo, Likely pathogenic",,
+4166,,,,SCAF4,,,"HP:0000601,HP:0000752,HP:0100543,HP:0001249,HP:0000276,HP:0007410,HP:0000975,HP:0012432,HP:0012378"

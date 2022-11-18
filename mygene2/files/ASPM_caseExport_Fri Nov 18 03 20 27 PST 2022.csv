@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+568,,,,ASPM,,,"HP:0000707,HP:0011024"
+1474,,,,ASPM,,,"HP:0000707,HP:0000152"
+3647,,,,ASPM,"c.4849C>T, p.(Arg1617*), autosomal recessive (compound heterozygous), Pathogenic; c.2761G>T, p.(Ala921Ser), autosomal recessive (compound heterozygous), Pathogenic",,HP:0000252
+3661,,,,ASPM,"c.6686_6689del, p.(Arg2229Thrfs*10), autosomal recessive (compound heterozygous), Pathogenic; c.4849C>T, p.(Arg1617*), autosomal recessive (compound heterozygous), Pathogenic",,HP:0000252
+3671,,,,ASPM,"c.2717_2718insGAGTC, p.(Ile906Metfs*31), autosomal recessive (compound heterozygous), Pathogenic; c.2791C>T, p.(Arg931*), autosomal recessive (compound heterozygous), Pathogenic",,HP:0000252

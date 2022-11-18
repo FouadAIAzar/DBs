@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+122,,,Opitz-Kaveggia syndrome,MED12,"c.2165T>C, p.(Leu722Pro), X-linked recessive, Likely pathogenic",,"HP:0001417,HP:0000316,HP:0012450,HP:0002236,HP:0002019,HP:0000218,HP:0001263,HP:0100710,HP:0011304,HP:0001601,HP:0000189,HP:0001371,HP:0000960,HP:0010307,HP:0002307,HP:0000722,HP:0001763,HP:0000047,HP:0001252,HP:0007018,HP:0001627,HP:0002705,HP:0002079,HP:0000739"
+2283,,,MED12,MED12,"c.5134 C>T, p.(Arg1712Trp), X-linked inheritance, Uncertain significance","F8, c.5123 G>A, p.(Arg1708His), X-linked inheritance, Pathogenic","HP:0000729,HP:0002019,HP:0000711,HP:0012393,HP:0000750,HP:0000729,HP:0000739,HP:0000729,HP:0002019,HP:0000717,HP:0001250,HP:0000389,HP:0012395,HP:0001344,HP:0100710,HP:0001289,HP:0000717"
+3621,,,,MED12,,,"HP:0001290,HP:0001488,HP:0000508,HP:0002835,HP:0003473"
+5106,,,,MED12,"c.3210G>T, p.(Arg1070Ser), unknown / other, Uncertain significance","COL12A1, c.1775C>T, p.(Ala592Val), unknown / other, Uncertain significance",
+5152,,,n/a,MED12,,"BCORL1, de novo, Uncertain significance",

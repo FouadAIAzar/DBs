@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2044,,,,TANC2,,,HP:0000707
+2129,,,autism spectrum disorder,TANC2,,,HP:0000729
+2376,,,SMARCC2 encephalopathy,TANC2,"c.1219+1G>A, , unknown / other, Uncertain significance","SMARCC2, c.1094_1097delAAGA, p.(Lys365Thrfs*12), unknown / other, Suspected pathogenic; DYNC1H1, c.6733 G>A, p.(Glu2245Lys), unknown / other, Uncertain significance; COL4A2, c.551 G>T, p.(Gly184Val), unknown / other, Likely benign","HP:0001263,HP:0001250,HP:0000717,HP:0011968,HP:0100753,HP:0000708,HP:0001601,HP:0001250"
+4118,,,,TANC2,"c.949C>T, p.(Pro317Ser), autosomal dominant, Uncertain significance",,"HP:0000717,HP:0000739,HP:0002527"
+5430,,,Tanc2,TANC2,"c.4616dup, p.(Gln1541Serfs*9), de novo, Pathogenic",,"HP:0000717,HP:0001250"

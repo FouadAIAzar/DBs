@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1822,,,,KIF11,,,HP:0000707
+3642,,,,KIF11,"c.1294_1296delGAG, p.(Glu432del), de novo, Pathogenic",,HP:0000252
+3662,,,,KIF11,"c.2431delA, p.(Ile811Tyrfs*12), de novo, Pathogenic",,HP:0000252

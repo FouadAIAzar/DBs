@@ -1,0 +1,11 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+906,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (compound heterozygous), Likely pathogenic; c.253C>T, p.(Arg85*), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0001252,HP:0000496,HP:0002093,HP:0001251,HP:0011282,HP:0100543"
+907,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0011282,HP:0001251,HP:0002093,HP:0001252"
+908,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0001251,HP:0002093,HP:0000496,HP:0011282,HP:0001252,HP:0100543"
+910,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0000496,HP:0001251,HP:0001252,HP:0011282,HP:0100543,HP:0002093"
+911,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0002093,HP:0100543,HP:0001251,HP:0011282,HP:0000496,HP:0001252"
+912,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0011282,HP:0002093,HP:0001252,HP:0100543,HP:0001251,HP:0000496"
+915,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0001252,HP:0100543,HP:0011282,HP:0000496,HP:0002093,HP:0001251"
+917,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0001251,HP:0011282,HP:0000496,HP:0001252,HP:0002093,HP:0100543"
+919,26092869,,Joubert Syndrome,TMEM216,"c.218G>T, p.(Arg73Leu), autosomal recessive (homozygous), Likely pathogenic",,"HP:0001252,HP:0002093,HP:0100543,HP:0000496,HP:0011282,HP:0001251"
+920,26092869,,Joubert Syndrome,TMEM216,"c.217C>T, p.(Arg73Cys), autosomal recessive (compound heterozygous), Likely pathogenic; c.398T>G, p.(Leu133*), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0002093,HP:0100543,HP:0000496,HP:0001251,HP:0001252,HP:0011282"

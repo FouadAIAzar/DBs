@@ -1,0 +1,9 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+979,26092869,,Joubert Syndrome,MKS1,"c.950G>A, p.(Gly317Glu), autosomal recessive (compound heterozygous), Likely pathogenic; c.1115_1117delCCT, p.(Ser372del), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+980,26092869,,Joubert Syndrome,MKS1,"c.1589-2A>T, , autosomal recessive (homozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+981,26092869,,Joubert Syndrome,MKS1,"c.1115_1117delCCT, p.(Ser372del), autosomal recessive (homozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+982,26092869,,Joubert Syndrome,MKS1,"c.1115_1117delCCT, p.(Ser372del), autosomal recessive (compound heterozygous), Likely pathogenic; c.381delC, p.(Tyr128Thrfs*17), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+983,26092869,,Joubert Syndrome,MKS1,"c.55G>T, p.(Asp19Tyr), autosomal recessive (homozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+984,26092869,,Joubert Syndrome,MKS1,"c.262-179_262-37del, p.(Phe88_Glu139del), autosomal recessive (homozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+985,26092869,,Joubert Syndrome,MKS1,"c.1528dupC, p.(Arg510Profs*81), autosomal recessive (homozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+986,26092869,,Joubert Syndrome,MKS1,"c.1208C>T, p.(Ser403Leu), autosomal recessive (compound heterozygous), Likely pathogenic; c.417G>A, p.(=), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"

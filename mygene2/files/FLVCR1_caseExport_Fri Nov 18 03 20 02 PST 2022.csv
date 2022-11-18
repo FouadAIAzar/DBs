@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+4153,,,Retinitis pigmentosa,FLVCR1,"c.347T>C, p.(Leu116Pro), autosomal recessive (compound heterozygous), Suspected pathogenic; c.1317G>A, p.(Met439Ile), autosomal recessive (compound heterozygous), Suspected pathogenic",,"HP:0032118,HP:0000510,HP:0009830,HP:0001251,HP:0002650"
+5704,,,Retinitis Pigmentosis,FLVCR1,"c.1092+5G>A, , autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0032118,HP:0000618,HP:0000556"

@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+260,,,KM2TE,KMT2E,,,"HP:0001270,HP:0001252,HP:0003307"
+1522,,,,KMT2E,"c.850T>C, p.(Tyr284His), de novo, Uncertain significance",,"HP:0002376,HP:0002019,HP:0001250,HP:0001263"
+1552,,,,KMT2E,,"MPP3, unknown / other, Uncertain significance",HP:0001263
+1641,,,,KMT2E,,,HP:0001263
+2439,,,,KMT2E,,,
+4221,,,O'Donnell-Luria-Rodan syndrome,KMT2E,,,"HP:0002027,HP:0033050,HP:0002019,HP:0000717,HP:0001252,HP:0033511"

@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1311,,616954,You-Hoover-Fong Syndrome; YHFS,TELO2,"c.1826G>A, p.(Arg609His), autosomal recessive (compound heterozygous), Pathogenic",,
+2187,,,,TELO2,,"TTI1, c.1271A>G, p.(His424Arg), autosomal recessive (compound heterozygous), Uncertain significance; TTI1, c.629dup, p.(Leu210Phefs*17), autosomal recessive (compound heterozygous), Uncertain significance; PDE4D, c.1439C>T, p.(Thr480Ile), de novo, Likely pathogenic","HP:0001252,HP:0000252,HP:0001251,HP:0004322,HP:0000431,HP:0000750,HP:0100022,HP:0002194"
+2266,,,You-Hoover-Fong syndrome,TELO2,"c.1751C>T, p.(Thr584Met), autosomal recessive (homozygous), Uncertain significance",,"HP:0001250,HP:0001263,HP:0001274,HP:0000204,HP:0000202,HP:0001360,HP:0000252,HP:0000863,HP:0000846,HP:0001510,HP:0001507"
+5761,,,TELO2 Developmental disorder,TELO2,"c.2296G>A, p.(Val766Met), autosomal recessive (compound heterozygous), Uncertain significance; c.2291+5G>A, , autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0002342,HP:0001249,HP:0000252,HP:0000717,HP:0002121,HP:0001250"

@@ -1,0 +1,11 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+847,,,Mitochondrial Neuro-gastrointestinal encepholopathy,FLNC,"c.970-4A>G, , X-linked dominant, Suspected pathogenic","SCN11A, c.1843-28T>C, de novo, Suspected pathogenic","HP:0002020,HP:0002019,HP:0009830,HP:0000011,HP:0032155,HP:0002013,HP:0001880,HP:0011024,HP:0032064,HP:0012332,HP:0033454,HP:0002039,HP:0033050,HP:0002027,HP:0010296,HP:0002835,HP:0030059,HP:0002076,HP:0001649,HP:0001662,HP:0002578"
+2254,,,mitochondrial DNA depletion-like disorder,FLNC,"c.5285G>A, p.(Arg1762His), autosomal recessive (compound heterozygous), Suspected pathogenic; c.2518C>T, p.(Arg840Cys), autosomal recessive (compound heterozygous), Suspected pathogenic",,"HP:0006466,HP:0009027,HP:0000938,HP:0001298,HP:0004326,HP:0003202"
+2518,,,unknown,FLNC,,"TRIP12, autosomal dominant, Uncertain significance; SYNE2, autosomal dominant, Uncertain significance; FRMPD4, autosomal dominant, Uncertain significance",
+2523,,,undiagnosed myopathy,FLNC,,"BTD, c.1330G>C, p.(Asp444His), autosomal recessive (homozygous), Pathogenic; NDUFA1, m, mitochondrial, Uncertain significance","HP:0001324,HP:0025406,HP:0002527,HP:0001954,HP:0001945,HP:0003701"
+2981,,,,FLNC,"c.4378C>T, p.(Arg1460Trp), autosomal dominant, Uncertain significance",,"HP:0000822,HP:0005116,HP:0005145,HP:0001920,HP:0001638,HP:0001639"
+3289,,,,FLNC,"c.3502G>A, p.(Gly1168Ser), unknown / other, Uncertain significance",,
+3907,,,distal myopathy with posterior leg and anterior hand involvement,FLNC,"c.506_508delTCCinsCCA, p.(Ile169_Gln170delinsThrLys), autosomal dominant, Uncertain significance",,"HP:0003698,HP:0000078,HP:0003198"
+3967,,,,FLNC,"c.3458 T>G, p.(Phe1153Cys), unknown / other, Uncertain significance","COL12A1, c.4980 C>G, p.(Asn1660Lys), de novo, Uncertain significance","HP:0001270,HP:0001324,HP:0002194,HP:0002791,HP:0011419,HP:0010535,HP:0002015,HP:0000717,HP:0002104,HP:0002870,HP:0001252,HP:0002312"
+5390,,,,FLNC,"c.3499 C>T, p.(Arg1167Cys), autosomal dominant, Uncertain significance","HFE, c.187 C>G, p.(His63Asp), autosomal recessive (compound heterozygous), Pathogenic",HP:0001627
+5461,,,,FLNC,"c.4324G>A, p.(Asp1442Asn), unknown / other, Uncertain significance",,HP:0003198

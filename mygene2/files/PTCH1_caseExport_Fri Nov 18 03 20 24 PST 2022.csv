@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+435,,,,PTCH1,"c.1579C>T, p.(Gln527*), autosomal dominant, Pathogenic","PREPL, c.2148T>A, p.(Ser716Arg), de novo, Benign",
+1727,,,,PTCH1,,,HP:0001507
+5705,,,Basal cell nevus syndrome,PTCH1,"c.3358del, p.(Glu1120Serfs*19), de novo, Likely pathogenic",,"HP:0011800,HP:0001274,HP:0001273,HP:0000772,HP:0002859"

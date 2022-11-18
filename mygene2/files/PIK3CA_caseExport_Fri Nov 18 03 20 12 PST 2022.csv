@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+748,,612918,CLOVE syndrome,PIK3CA,"c.3140A>T, p.(His1047Leu), unknown / other, Uncertain significance",,
+3663,,,,PIK3CA,"c.2740G>A, p.(Gly914Arg), de novo, Pathogenic",,HP:0000256
+3672,,,,PIK3CA,"c.2740G>A, p.(Gly914Arg), Somatic mosaicism, Pathogenic",,HP:0000256
+3682,,,,PIK3CA,"c.3019G>C, p.(Gly1007Arg), Somatic mosaicism, Pathogenic",,HP:0000256
+3685,,,,PIK3CA,"c.3130A>T, p.(Asn1044Tyr), de novo, Pathogenic",,HP:0000256
+3698,,,,PIK3CA,"c.3140A>C, p.(His1047Pro), Somatic mosaicism, Pathogenic",,HP:0000256

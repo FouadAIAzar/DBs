@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+566,,,,CAD,,,"HP:0003011,HP:0012443"
+3275,,,COL4A2,CAD,,"COL4A2, de novo, Pathogenic","HP:0001250,HP:0040196,HP:0000252,HP:0000545"
+5558,,,,CAD,"c. 161A>G, p.(Tyr54Cys), autosomal recessive (compound heterozygous), Uncertain significance; c. 4850G>A, p.(Arg1617Gln), autosomal recessive (compound heterozygous), Uncertain significance","MT-ATP6, m. 8636T>C, p.(Leu37Pro), mitochondrial, Uncertain significance",
+5972,,,,CAD,"c.5140C>T, p.(Leu1714Phe), autosomal recessive (compound heterozygous,  2nd variant unknown)",,"HP:0001250,HP:0000717,HP:0000729,HP:0001260,HP:0002829,HP:0033050,HP:0007099,HP:0012450,HP:0002019,HP:0000790,HP:0001903"

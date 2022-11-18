@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1565,,,PTPN11 & COG5 - Unknown Genetic Disorder(s),PTPN11,"c.518G>C, p.(Arg173Pro), de novo, Likely pathogenic","COG5, c.2116C>T, p.(Arg706Cys), autosomal recessive (compound heterozygous), Uncertain significance; COG5, c.340C>T, p.(His114Tyr), autosomal recessive (compound heterozygous), Uncertain significance","HP:0000473,HP:0000473,HP:0001252,HP:0001558,HP:0010522,HP:0100543,HP:0000739,HP:0100512,HP:0001252"
+1832,,,,PTPN11,,,"HP:0003549,HP:0001626,HP:0001438"
+5096,,,Noonan Syndrome,PTPN11,"c.228 G>C, p.(Glu76Asp), de novo, Pathogenic",,"HP:0011968,HP:0001642,HP:0001252,HP:0001627"

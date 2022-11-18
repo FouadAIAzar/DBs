@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+761,,,,SCN8A,,,
+1660,,,,SCN8A,"c.5555C>T, p.(Thr1852Ile), de novo, Uncertain significance","QDPR, c.545+1G>C, unknown / other, Pathogenic","HP:0001250,HP:0001250"
+1673,,,Unnamed Syndrome,SCN8A,"c.4023_4024dup, p.(Asn1342Argfs*11), unknown / other, Uncertain significance","YWHAZ, c.689C>G, p.(Ser230Trp), de novo, Uncertain significance","HP:0001788,HP:0011968,HP:0025406,HP:0030148,HP:0000954,HP:0001999,HP:0006610,HP:0001642,HP:0100633,HP:0012450,HP:0002019,HP:0001344,HP:0002186,HP:0000737"

@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+211,,,undiagnosed primary immunodeficiency,NLRP3,,"CFH, c.2084C>T, p.(Pro695Leu), autosomal recessive (compound heterozygous), Uncertain significance; DOCK8, c.3010C>T, p.(Arg1004Trp), autosomal recessive (compound heterozygous), Uncertain significance; UNC13D, c.547G>A, p.(Val183Ile), autosomal recessive (compound heterozygous), Uncertain significance","HP:0002721,HP:0000476,HP:0002014,HP:0001875,HP:0001581"
+1214,,,,NLRP3,"c.409C>T, p.(Arg137Cys), unknown / other, Uncertain significance","INF2, c.3418G>A, p.(Val1140Ile), unknown / other, Uncertain significance",HP:0000077
+2966,,,,NLRP3,,"ELL3, unknown / other, Uncertain significance; BRIP1, unknown / other, Uncertain significance",

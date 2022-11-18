@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1671,,,,NEFL,"c.509 C>A, p.(Thr170Asn), autosomal dominant, Uncertain significance","NPC1, c.3019 C>G, p.(Pro1007Ala), autosomal recessive (homozygous), Pathogenic; MT-CYB, m.14751 C>T, mitochondrial, Uncertain significance","HP:0009763,HP:0030050,HP:0002144,HP:0001250,HP:0000011,HP:0002315,HP:0002572,HP:0002076,HP:0002013,HP:0001250,HP:0001279,HP:0002076,HP:0002013,HP:0012531,HP:0000980,HP:0000980,HP:0001945,HP:0001939,HP:0001903,HP:0003546,HP:0001903,HP:0002720,HP:0012378,HP:0011098,HP:0001760,HP:0001252,HP:0100699"
+2685,,,Charcot-Marie-Tooth disease type 1F,NEFL,"c.338_339delAGinsCC, p.(Gln113Pro), autosomal dominant, Uncertain significance",,"HP:0001324,HP:0001315,HP:0001765,HP:0001271,HP:0001765,HP:0009830,HP:0009027,HP:0000763,HP:0009830,HP:0009046,HP:0002460"
+3976,,,Charcot-Marie-Tooth disease type 2E,NEFL,"c.1554G>C, p.(Glu518Asp), autosomal dominant, Uncertain significance",,
+5423,,,Charcot Marie Tooth,NEFL,"c. 1175T>A, p.(Leu392His), unknown / other, Uncertain significance",,

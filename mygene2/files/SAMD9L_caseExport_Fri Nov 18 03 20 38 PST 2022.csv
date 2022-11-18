@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+698,,,,SAMD9L,,,HP:0012443
+1840,,,,SAMD9L,,,"HP:0000707,HP:0002715,HP:0001871"
+3891,,,ataxia-pancytopenia syndrome,SAMD9L,,,"HP:0001903,HP:0004808,HP:0001251,HP:0001876,HP:0009830,HP:0002960,HP:0002383,HP:0011096,HP:0001271,HP:0002024,HP:0025230,HP:0001369"
+5520,,,,SAMD9L,"c.1309G>T, p.(Glu437*), unknown / other, Uncertain significance",,

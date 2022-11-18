@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3490,,,,PABPN1,,,
+3555,,,,PABPN1,"c.30_32dupAGC, p.(Ala11dup), unknown / other, Pathogenic",,"HP:0006785,HP:0006466,HP:0003805,HP:0003323,HP:0003198,HP:0002747,HP:0002317,HP:0001618,HP:0001288,HP:0012378,HP:0012531,HP:0012668,HP:0030838,HP:0030839,HP:0030840"
+5181,,,OPMD,PABPN1,,,

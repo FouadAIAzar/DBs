@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2368,,,,TFE3,"c.353_354delinsCC, p.(Gln118Pro), X-linked inheritance, Uncertain significance","KCNJ10, c.1043G>A, p.(Arg348His), autosomal recessive (compound heterozygous), Uncertain significance; KCNJ10, c.52C>T, p.(Arg18Trp), autosomal recessive (compound heterozygous), Uncertain significance","HP:0100539,HP:0100540,HP:0000023,HP:0100790,HP:0000961,HP:0001943,HP:0100727,HP:0012156,HP:0001250,HP:0002119,HP:0001433,HP:0000316,HP:0000331,HP:0000369,HP:0000400,HP:0009748,HP:0002721,HP:0001396"
+3508,,,,TFE3,,,
+4116,,,,TFE3,"c.611 C>G, p.(Ser204Cys), X-linked inheritance, Uncertain significance",,"HP:0008760,HP:0007018,HP:0007015,HP:0006919,HP:0002553,HP:0002194,HP:0001328,HP:0001324,HP:0001263,HP:0001249,HP:0001090,HP:0000750,HP:0000739,HP:0000719,HP:0000718,HP:0000717,HP:0000708,HP:0000504,HP:0000729,HP:0012433"
+5494,,,TFE3 Disorder,TFE3,"c.569_583del, p.(His190_Ala194del), unknown / other, Uncertain significance",,"HP:0001943,HP:0001622,HP:0008606,HP:0002119,HP:0001263,HP:0000238,HP:0033140,HP:0011787,HP:0000829,HP:0001250,HP:0012759,HP:0000846"

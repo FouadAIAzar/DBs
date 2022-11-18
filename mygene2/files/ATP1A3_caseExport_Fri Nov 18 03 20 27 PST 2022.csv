@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1391,,104290,Alternating Hemiplegia of Childhood 1,ATP1A3,"c.2324C>T, p.(Pro775Leu), de novo, Likely pathogenic",,"HP:0001263,HP:0001252"
+2796,,,dystonia 12,ATP1A3,"c.2227G>A, p.(Asp743Asn), unknown / other, Uncertain significance",,HP:0001332
+3163,,,,ATP1A3,,,"HP:0001298,HP:0001250,HP:0200134"
+3898,,,Complex migraine with aura,ATP1A3,"c.2150_2151delAGinsGC, p.(Lys717Ser), unknown / other, Uncertain significance; c.2167T>G, p.(Ser723Ala), unknown / other, Uncertain significance","PMP22, c.353C>T, p.(Thr118Met), autosomal dominant, Suspected pathogenic; PCCA, c.652A>C, p.(Ile218Leu), unknown / other, Uncertain significance","HP:0003768,HP:0003470,HP:0001260,HP:0001962,HP:0011675,HP:0010546,HP:0002380,HP:0003552,HP:0033050,HP:0012185,HP:0003401,HP:0030880,HP:0002829,HP:0002076,HP:0002067,HP:0002083,HP:0200072,HP:0002445"
+4429,,,,ATP1A3,,"USP9X, c.4861C>G, p.(Pro1621Ala), X-linked inheritance, Uncertain significance; MBD5, unknown / other, Uncertain significance; POLG, autosomal recessive (compound heterozygous), Uncertain significance","HP:0001883,HP:0001762,HP:0002099,HP:0002791,HP:0033000,HP:0002069,HP:0001250,HP:0031951,HP:0000717,HP:0001337,HP:0000729,HP:0002080,HP:0000486,HP:0000739"

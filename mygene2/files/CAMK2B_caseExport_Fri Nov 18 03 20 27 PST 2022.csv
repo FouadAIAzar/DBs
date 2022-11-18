@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1675,,,CAMK2B,CAMK2B,"c.820-2A>G, , de novo, Uncertain significance",,HP:0001263
+2670,,,,CAMK2B,"c.416C>T, p.(Pro139Leu), unknown / other, Pathogenic",,"HP:0010864,HP:0001249,HP:0002540,HP:0001510,HP:0001344,HP:0004322"
+3179,,,,CAMK2B,,,HP:0001627
+3364,,,CAMK2b,CAMK2B,,,
+3926,,,,CAMK2B,"c.1818C>A, p.(His606Gln), autosomal dominant, Uncertain significance",,"HP:0001251,HP:0001257,HP:0001508,HP:0004324,HP:0004322,HP:0000252,HP:0011344,HP:0001263,HP:0002073"

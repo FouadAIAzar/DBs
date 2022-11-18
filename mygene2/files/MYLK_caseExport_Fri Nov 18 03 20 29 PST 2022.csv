@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+93,,,Familial Thoracic Aortic Aneurysm,MYLK,"c.3802A>G, p.(Thr1268Ala), autosomal dominant, Uncertain significance",,"HP:0001647,HP:0002616"
+408,,,epileptic encephalopathy,MYLK,"c.159dupA, p.(Gly54Argfs*45), autosomal dominant, Likely pathogenic","GNAO1, c.626 G>A, p.(Arg209His), de novo, Uncertain significance","HP:0001252,HP:0004942,HP:0002617,HP:0002647,HP:0200134,HP:0001298,HP:0002305,HP:0001263,HP:0001290"
+3537,,,,MYLK,"c3653-10, , autosomal dominant, Uncertain significance","ADAMTS2, autosomal recessive (compound heterozygous), Uncertain significance",

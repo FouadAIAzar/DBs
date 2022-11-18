@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2215,,,2q trisomy,MAP4K4,,"RPL31, unknown / other, Uncertain significance; IL1R2, unknown / other, Uncertain significance; IL1R1, unknown / other, Uncertain significance","HP:0001263,HP:0001263,HP:0002791,HP:0002791,HP:0002119,HP:0002119"
+3370,,,,MAP4K4,,,"HP:0100022,HP:0002104"
+5538,,,,MAP4K4,"c.1543_1544del, p.(Leu515Thrfs*3), de novo, Pathogenic",,"HP:0001263,HP:0001513,HP:0000135,HP:0000717"

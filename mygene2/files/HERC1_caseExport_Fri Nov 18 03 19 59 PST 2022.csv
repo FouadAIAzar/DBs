@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3184,,,,HERC1,,,HP:0011282
+4004,,,Autism,HERC1,"c.13153dupC, p.(Gln4385Profs*25), unknown / other, Likely pathogenic","WDFY3, c.6535 A>G, p.(Ile2179Val), unknown / other, Uncertain significance","HP:0000717,HP:0000750,HP:0000739"

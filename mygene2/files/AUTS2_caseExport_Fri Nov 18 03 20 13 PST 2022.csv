@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1490,,,,AUTS2,,"LRP5, unknown / other, Uncertain significance",HP:0000717
+1689,,,,AUTS2,,,HP:0000707
+2820,,,autism,AUTS2,"c.454C>T, p.Arg152Ter, unknown / other, Pathogenic",,HP:0000717
+3687,,,,AUTS2,"c.1550C>T, p.(Pro517Leu), de novo, Pathogenic",,HP:0001298
+3691,,,,AUTS2,"c.2920_2930del, p.(Gln974Glyfs*82), de novo, Pathogenic",,HP:0001298
+3692,,,,AUTS2,"c.1483C>T, p.(Arg495*), de novo, Pathogenic",,HP:0001298

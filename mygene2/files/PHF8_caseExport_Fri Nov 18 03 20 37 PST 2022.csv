@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2623,,,,PHF8,"c.808C>T, p.(Arg270Cys), X-linked recessive, Suspected pathogenic",,"HP:0001263,HP:0001388,HP:0004942,HP:0100543,HP:0001634,HP:0000750"
+3059,,,,PHF8,,"DLG3, X-linked inheritance, Uncertain significance",
+4177,,,,PHF8,,,
+5395,,,,PHF8,"c.1731-2A>G, , X-linked inheritance, Pathogenic","NGLY1, c.1764_1785del, p.(Asp588Glufs*24), autosomal recessive (compound heterozygous,  2nd variant unknown); MME, c.467del, p.(Pro156Leufs*14), autosomal dominant, Uncertain significance; APOE, c.388T>C, p.(Cys130Arg), autosomal dominant, Uncertain significance","HP:0100021,HP:0002500,HP:0002415,HP:0033050,HP:0000518,HP:0011098,HP:0002186,HP:0001252,HP:0001276,HP:0001257,HP:0001264,HP:0001263,HP:0001344,HP:0000519"

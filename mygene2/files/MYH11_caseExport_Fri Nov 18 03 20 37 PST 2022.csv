@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+89,,,Familial Thoracic Aortic Aneurysm,MYH11,"c.4673C>T, p.(Thr1558Met), autosomal dominant, Uncertain significance",,"HP:0001644,HP:0001638,HP:0002616,HP:0001653,HP:0000407"
+630,,,FTAAD,MYH11,"c.4240_4242delGCTinsACG, p.(Ala1414Thr), autosomal dominant, Uncertain significance",,"HP:0004942,HP:0002647,HP:0004976,HP:0003418,HP:0001762,HP:0000717,HP:0000218,HP:0000316,HP:0002721,HP:0012727"
+5136,,,,MYH11,"c.3441G>A, p.(=), de novo, Uncertain significance",,
+5391,,,,MYH11,"c.623C>G, p.(Thr208Arg), unknown / other, Uncertain significance",,

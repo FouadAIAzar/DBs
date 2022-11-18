@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+604,,,,FGFR1,,,"HP:0000478,HP:0012443"
+1384,,,,FGFR1,"c.304G>A, p.(Val102Ile), unknown / other, Uncertain significance","KLB, c.26C>A, p.(Ser9Tyr), unknown / other, Uncertain significance","HP:0000855,HP:0000956,HP:0000098,HP:0000822,HP:0001007"
+3167,,,,FGFR1,,,"HP:0001250,HP:0200134,HP:0001298"
+3649,,,,FGFR1,"c.1614G>C, p.(Arg538Ser), de novo, Pathogenic",,HP:0001263

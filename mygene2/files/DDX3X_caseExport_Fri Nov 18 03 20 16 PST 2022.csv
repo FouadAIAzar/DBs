@@ -1,0 +1,9 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+132,,,DDX3X,DDX3X,"c.745G>T, p.(Glu249*), de novo, Pathogenic",,"HP:0001263,HP:0002370"
+137,,,"DDX3X gene mutation at intron 1, splicing variant c.46-2A>G",DDX3X,"c.46-2A>G, , de novo, Likely pathogenic",,"HP:0001263,HP:0000717,HP:0000718,HP:0001250"
+2396,,,DDX3X,DDX3X,"c.1371_1382delinsCTC, p.(Glu458_Leu461delinsSer), de novo, Likely pathogenic","SMARCA4, c.2402G>A, p.(Arg801His), autosomal dominant, Uncertain significance; SMARCA2, c.677A>C, p.(Gln226Pro), autosomal dominant, Uncertain significance","HP:0000718,HP:0000717,HP:0010522,HP:0100543,HP:0100753"
+3511,,,,DDX3X,"c.1628 C>T, p.(Ser543Leu), de novo, Pathogenic",,
+3637,,,,DDX3X,"c.929G>A, p.(Arg310His), de novo, Pathogenic",,HP:0002538
+3670,,,,DDX3X,"c.1414C>T, p.(Arg472Cys), X-linked inheritance, Pathogenic",,HP:0000252
+3675,,,,DDX3X,"c.830C>T, p.(Ser277Phe), X-linked inheritance, Pathogenic",,HP:0000252
+5656,,,,DDX3X,"c.263G>A, p.(Arg88His), unknown / other, Uncertain significance",,"HP:0001249,HP:0032046,HP:0002539,HP:0002353,HP:0007018,HP:0001252,HP:0000767,HP:0001250"

@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1112,,,,PKD2,"c.749C>T, p.(Thr250Ile), autosomal dominant, Uncertain significance","SALL1, c.518C>T, p.(Pro173Leu), unknown / other, Uncertain significance",HP:0000077
+1116,,,,PKD2,"c.1249C>T, p.(Arg417*), autosomal dominant, Likely pathogenic",,HP:0000077
+1217,,,,PKD2,"c.2819G>A, p.(Arg940His), autosomal dominant, Uncertain significance",,HP:0000077
+3799,,,,PKD2,,,"HP:0000119,HP:0000079"

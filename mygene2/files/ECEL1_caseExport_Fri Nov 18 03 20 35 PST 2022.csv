@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+59,,601680,DA2B,ECEL1,"c.1933C>T, p.(Arg645*), autosomal recessive (compound heterozygous), Likely pathogenic; c.2006C>T, p.(Thr669Met), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0001760,HP:0000508,HP:0000347,HP:0001371,HP:0012385,HP:0005830,HP:0030084"
+2074,,,DA5D,ECEL1,"c.344_355del, p.(Asn115_Ala118del), autosomal recessive (compound heterozygous), Likely pathogenic; c.716dupA, p.(Tyr239*), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0006380,HP:0003044,HP:0007687,HP:0002987,HP:0000470,HP:0001239,HP:0006466,HP:0000347,HP:0004673,HP:0012785,HP:0000414,HP:0009759,HP:0001060,HP:0003273"
+2075,,,DA5D,ECEL1,"c.1184G>A, p.(Arg395Gln), autosomal recessive (homozygous), Likely pathogenic",,"HP:0003044,HP:0000414,HP:0003273,HP:0001239,HP:0006466,HP:0007687,HP:0001060,HP:0009759,HP:0005830,HP:0012785,HP:0002987"

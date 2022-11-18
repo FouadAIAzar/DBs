@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+561,,,,IGF1R,,,HP:0000153
+1965,,,,IGF1R,"c.1544dupC, p.(Asp516*), autosomal recessive (homozygous), Uncertain significance",,"HP:0000717,HP:0002566,HP:0001250,HP:0002463,HP:0004322"
+3714,,,,IGF1R,"c. 2067_2068delTG, p.(Glu690Glyfs*16), autosomal recessive (compound heterozygous), Likely pathogenic","HCFC1, c.3501 A>C, p.(Gln1167His), X-linked inheritance, Uncertain significance","HP:0004322,HP:0004325,HP:0000252,HP:0000739"

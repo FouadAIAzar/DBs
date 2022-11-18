@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2400,,,FoxP2,FOXP2,,,"HP:0000717,HP:0000717,HP:0000545"
+3886,,,FOXP2,FOXP2,,,"HP:0000750,HP:0001263"
+4569,,,FOXP2-Related Disorder,FOXP2,,,"HP:0001263,HP:0000717,HP:0000729,HP:0000750"

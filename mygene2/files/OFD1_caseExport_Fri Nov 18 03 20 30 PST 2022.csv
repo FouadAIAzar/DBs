@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+965,26092869,,Joubert Syndrome,OFD1,"c.149A>G, p.(His50Arg), X-linked recessive, Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+966,26092869,,Joubert Syndrome,OFD1,"c.2668C>T, p.(Arg890*), X-linked recessive, Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+967,26092869,,Joubert Syndrome,OFD1,"c.277G>T, p.(Val93Phe), X-linked recessive, Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+978,26092869,,Joubert Syndrome,OFD1,"c.2767delG, p.(Glu923Lysfs*4), X-linked recessive, Likely pathogenic",,"HP:0100543,HP:0000496,HP:0002093,HP:0011282,HP:0001252,HP:0001251"
+1321,,,OFD1 ciliopathy,OFD1,"c.2868del, p.(Pro957Leufs*2), X-linked recessive, Likely pathogenic",,"HP:0001696,HP:0001513,HP:0001263,HP:0000657"

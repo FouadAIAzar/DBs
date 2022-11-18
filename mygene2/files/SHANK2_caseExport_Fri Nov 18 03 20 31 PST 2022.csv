@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+176,,,SHANK2 gene mutation,SHANK2,,,"HP:0002186,HP:0002167,HP:0002371,HP:0011098"
+1130,,,,SHANK2,"c.2521C>T, p.(Arg841*), de novo, Pathogenic",,
+1478,,,,SHANK2,"c.4462G>A, p.(Asp1488Asn), autosomal dominant, Uncertain significance",,"HP:0000717,HP:0001252,HP:0001263,HP:0001347"
+1943,,,,SHANK2,"c.4592_4593delCA, p.(Thr1531Serfs*11), unknown / other, Uncertain significance",,"HP:0002031,HP:0100543,HP:0010780,HP:0001787,HP:0011968,HP:0011443,HP:0001558,HP:0000736,HP:0000718,HP:0000405,HP:0001560,HP:0001290,HP:0007565,HP:0100022"
+4559,,,SHANK2 Disorder,SHANK2,"c. 1783G>A, p.(Glu595Lys), de novo, Uncertain significance",,"HP:0000739,HP:0000717,HP:0030223,HP:0000486,HP:0000639,HP:0000687,HP:0000691,HP:0008551,HP:0002144"

@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1762,,,,LAMA5,,,"HP:0001507,HP:0000924"
+1964,,,short stature,LAMA5,,,HP:0004322
+2696,,,,LAMA5,,,HP:0008609
+3147,,,,LAMA5,,,HP:0008056
+3778,,,,LAMA5,,,HP:0011442
+4570,,,malformative disorder,LAMA5,"c.5071G>T, , autosomal recessive (homozygous), Likely pathogenic",,"HP:0012385,HP:0033748,HP:0006483,HP:0012583,HP:0000089,HP:0004399,HP:0000410,HP:0000365"

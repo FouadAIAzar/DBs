@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+762,,,,GLB1,"c.2002A>T, p.(Lys668*), autosomal dominant, Pathogenic","FSCN2, c.130C>T, p.(Gln44*), autosomal dominant, Pathogenic; RP1L1, c.435del, p.(Lys146Argfs*11), autosomal dominant, Pathogenic; TRPM1, c.3811G>T, p.(Glu1271*), autosomal dominant, Pathogenic","HP:0006829,HP:0000648,HP:0000587,HP:0000648,HP:0001252"
+1510,,253010,Mucopolysaccharidosis type 4B,GLB1,"c.1454C>T, p.(Tyr485Cys), autosomal recessive (compound heterozygous), Uncertain significance; c.442C>T, p.(Arg148Cys), autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0008454,HP:0009763,HP:0004322,HP:0007340,HP:0002355,HP:0001388"
+1944,,,,GLB1,", p.(His329Tyr), unknown / other, Uncertain significance",,HP:0000504

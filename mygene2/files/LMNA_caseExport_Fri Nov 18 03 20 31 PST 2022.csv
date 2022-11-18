@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1623,,,,LMNA,"c.1487C>T, p.(Thr496Met), unknown / other, Uncertain significance","LAMA2, c.3626G>A, p.(Gly1209Asp), unknown / other, Uncertain significance; AMIGO3, c.795G>T, p.(Gln265His), unknown / other, Uncertain significance",HP:0009830
+3805,,,,LMNA,,"ABCA7, unknown / other, Uncertain significance; FBN1, unknown / other, Suspected pathogenic",HP:0009124
+6065,,,Emery-Dreifuss muscular dystrophy,LMNA,"c.317T>C, p.(Leu106Pro), unknown / other, Uncertain significance",,"HP:0001638,HP:0003701,HP:0001324,HP:0003560,HP:0003306,HP:0002063,HP:0004308,HP:0011675,HP:0025406,HP:0001644"

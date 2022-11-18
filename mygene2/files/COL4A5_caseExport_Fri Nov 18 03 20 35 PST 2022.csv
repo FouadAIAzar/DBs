@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+942,1376965,,,COL4A5,"c.973G>A, p.(Gly325Arg), X-linked dominant, Likely pathogenic",,HP:0000077
+1109,,,,COL4A5,"c.2965_2968delinsCTGAGTGCCCAGT, p.(Asp989_Pro990delinsLeuSerAlaGlnSer), X-linked dominant, Likely pathogenic",,HP:0000077
+1152,,,,COL4A5,"c.584G>A, p.(Gly195Asp), X-linked recessive, Likely pathogenic",,HP:0000077
+3904,,,,COL4A5,"c.3392G>A, p.(Gly1131Glu), X-linked inheritance, Pathogenic",,

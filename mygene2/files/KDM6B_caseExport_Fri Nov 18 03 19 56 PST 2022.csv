@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2318,,,,KDM6B,"c.138-1G>A, , de novo, Uncertain significance","SLC35B4, c.697G>A, p.(Gly233Arg), de novo, Likely pathogenic; KIF25, c.689_690del, p.(Glu230Glyfs*173), autosomal recessive (compound heterozygous), Uncertain significance; KIF25, c.847G>A, p.(Gly283Arg), autosomal recessive (compound heterozygous), Uncertain significance","HP:0001250,HP:0001252,HP:0002870,HP:0000717,HP:0000829,HP:0001263"
+5151,,,KDM6B,KDM6B,"c.3334_3335del, p.(Ser1112Trpfs*2), autosomal dominant, Pathogenic",,"HP:0001263,HP:0000717,HP:0007018,HP:0002761"

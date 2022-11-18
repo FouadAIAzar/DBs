@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1043,,,,ATP6V1B1,"c.1394G>A, p.(Arg465His), unknown / other, Likely pathogenic","SLC34A1, c.343G>A, p.(Val115Ile), unknown / other, Uncertain significance",HP:0000077
+1164,,,,ATP6V1B1,"c.1181G>A, p.(Arg394Gln), de novo, Likely pathogenic",,HP:0000077
+1219,,,,ATP6V1B1,"c.1394G>A, p.(Arg465His), unknown / other, Uncertain significance","CUL3, c.1377+1dupG, autosomal dominant, Likely pathogenic",HP:0000077

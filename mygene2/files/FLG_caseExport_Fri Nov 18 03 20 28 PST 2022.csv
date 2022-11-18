@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+556,,,,FLG,,,"HP:0008064,HP:0002960"
+2365,,616266,"congenital contractures of the limbs and face, hypotonia, and developmental delay",FLG,,"BCL11A, unknown / other, Uncertain significance","HP:0001263,HP:0009800,HP:0000750,HP:0002121,HP:0001161"
+4615,,,,FLG,"c.2282_2285del, p.(Ser761Cysfs*36), autosomal recessive (compound heterozygous), Pathogenic; c.1501 C>T, p.(Arg501*), autosomal recessive (compound heterozygous), Pathogenic",,"HP:0002099,HP:0012393,HP:0000964,HP:0001880,HP:0410151,HP:0100633"
+5197,,,,FLG,"c.7339 C>T, p.(Arg2447*), unknown / other, Pathogenic",,
+5515,,,,FLG,"c.1501 C>T, p.(Arg501*), unknown / other, Pathogenic","CHD8, c.3629 G>A, p.(Arg1210Gln), autosomal dominant, Uncertain significance","HP:0100699,HP:0011968,HP:0011165,HP:0008138,HP:0007018,HP:0004467,HP:0002829,HP:0002578,HP:0002315,HP:0002077,HP:0002076,HP:0002035,HP:0002027,HP:0002024,HP:0002014,HP:0002013,HP:0001763,HP:0001653,HP:0001649,HP:0001575,HP:0001508,HP:0001290,HP:0001270,HP:0001030,HP:0000987,HP:0000974,HP:0000964,HP:0000963,HP:0000820,HP:0000767,HP:0000739,HP:0000735,HP:0000646,HP:0000505,HP:0000473,HP:0000405,HP:0000276,HP:0000272,HP:0000262,HP:0008628,HP:0008067,HP:0003835,HP:0012646"

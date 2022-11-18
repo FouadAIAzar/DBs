@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+319,,,"Hypotonia, global developmental delay, intellectual disability",ZMYND11,,"MSRA, unknown / other, Uncertain significance; DIP2C, de novo, Uncertain significance; LARP4B, de novo, Uncertain significance","HP:0001252,HP:0001263,HP:0001249"
+2144,,,,ZMYND11,"c.1798C>T, p.(Arg600Trp), de novo, Pathogenic",,"HP:0001518,HP:0004324,HP:0002015,HP:0001252,HP:0001263,HP:0002015,HP:0001263,HP:0001252"

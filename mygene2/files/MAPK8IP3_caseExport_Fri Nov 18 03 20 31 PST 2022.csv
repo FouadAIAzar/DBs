@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2369,,,,MAPK8IP3,"c.111 C>G, p.(Tyr37*), de novo, Pathogenic",,"HP:0001250,HP:0000639,HP:0000733,HP:0011098,HP:0001337,HP:0002066,HP:0000718,HP:0000639,HP:0000733,HP:0011098,HP:0002066"
+3411,,,,MAPK8IP3,"c.1714C>T, p.(Arg572Cys), de novo, Pathogenic",,
+4167,,,,MAPK8IP3,"c.494A>T, p.(His165Leu), autosomal dominant, Uncertain significance",,"HP:0006989,HP:0001629,HP:0001671,HP:0001669,HP:0000252,HP:0004322"

@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+4342,,,,OPA1,"c.2873_2876delTTAG, p.(Val958Glyfs*3), autosomal dominant, Pathogenic","SIK1, c.1403C>G, p.(Thr468Arg), autosomal dominant, Uncertain significance; EHMT1, c.3078C>A, p.(=), autosomal dominant, Uncertain significance; MTHFR, c.870C>T, p.(=), unknown / other, Uncertain significance","HP:0005214,HP:0005912,HP:0002140,HP:0001297,HP:0001943,HP:0001263,HP:0001252"
+5443,,,,OPA1,"c.530 G>T, p.(Ser177Ile), autosomal dominant, Uncertain significance","SLC22A5, c.-149 G>A, p.(=), autosomal recessive (homozygous), Uncertain significance","HP:0033050,HP:0003287,HP:0009830,HP:0012432,HP:0012378,HP:0030127,HP:0001324,HP:0025406,HP:0031035,HP:0003750"

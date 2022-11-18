@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3389,,,SET,SET,"c.663+5G>C, , de novo, Pathogenic",,"HP:0000729,HP:0000717,HP:0001249,HP:0000256,HP:0001263,HP:0012378,HP:0000739"
+4135,,,,SET,"c.167_170delACAG, p.(Arg57Leufs*10), de novo, Pathogenic",,"HP:0000826,HP:0001263,HP:0001252,HP:0005616"
+5153,,,Speech delay,SET,,"SH2B1, de novo, Uncertain significance","HP:0000729,HP:0000717,HP:0000750,HP:0001249,HP:0001067,HP:0009737"

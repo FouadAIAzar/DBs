@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1903,,,,TRIO,"c.6092delT, p.(Leu2031*), de novo, Pathogenic",,"HP:0000540,HP:0002650,HP:0000365,HP:0000717,HP:0002579,HP:0001263,HP:0000699,HP:0001249,HP:0000362,HP:0001156,HP:0000252"
+3085,,,"autism, susceptibility to, 19",TRIO,,,"HP:0001575,HP:0000712,HP:0000717,HP:0000739"
+3412,,,Trio-related ID,TRIO,"c.3232C>T, p.(Arg1078Trp), de novo, Pathogenic",,
+3424,,,TRIO,TRIO,,,"HP:0000717,HP:0000729,HP:0000718,HP:0012514,HP:0012531,HP:0002791,HP:0002098,HP:0011968,HP:0004324,HP:0000975,HP:0001249"
+5016,,,microcephaly,TRIO,"c.4394 A>G, p.(Asn1465Ser), de novo, Likely pathogenic",,HP:0000252
+5738,,,,TRIO,,,"HP:0000252,HP:0001272"

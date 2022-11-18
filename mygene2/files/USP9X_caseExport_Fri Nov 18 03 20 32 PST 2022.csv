@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1312,,,USP9X,USP9X,"c.1303T>C, p.(Trp435Arg), X-linked dominant, Suspected pathogenic",,
+2887,,,,USP9X,,,
+3872,,,Autism,USP9X,"c.7440dupA, p.(Ala2481Serfs*17), X-linked inheritance, Uncertain significance","ACACA, c.253 G>A, p.(Val85Ile), de novo, Uncertain significance","HP:0000717,HP:0000729,HP:0001263,HP:0000256,HP:0001156,HP:0001290"
+4429,,,,USP9X,"c.4861C>G, p.(Pro1621Ala), X-linked inheritance, Uncertain significance","ATP1A3, de novo, Uncertain significance; MBD5, unknown / other, Uncertain significance; POLG, autosomal recessive (compound heterozygous), Uncertain significance","HP:0001883,HP:0001762,HP:0002099,HP:0002791,HP:0033000,HP:0002069,HP:0001250,HP:0031951,HP:0000717,HP:0001337,HP:0000729,HP:0002080,HP:0000486,HP:0000739"
+4992,,,,USP9X,"c.4234-13C>A, p.(Ivs28-13C>A), X-linked inheritance, Uncertain significance",,

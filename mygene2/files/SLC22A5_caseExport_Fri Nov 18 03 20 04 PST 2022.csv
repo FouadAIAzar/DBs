@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+5443,,,,SLC22A5,"c.-149 G>A, p.(=), autosomal recessive (homozygous), Uncertain significance","OPA1, c.530 G>T, p.(Ser177Ile), autosomal dominant, Uncertain significance","HP:0033050,HP:0003287,HP:0009830,HP:0012432,HP:0012378,HP:0030127,HP:0001324,HP:0025406,HP:0031035,HP:0003750"
+5502,,,Kabuki Syndrome 1 (possible),SLC22A5,"c.34G>A, p.(Gly12Ser), de novo, Likely pathogenic","KMT2D, c.15730A>G, p.(Lys5244Glu), autosomal dominant, Uncertain significance",

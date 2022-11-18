@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1798,,,,MACF1,,,HP:0001626
+1836,,,,MACF1,,,"HP:0000707,HP:0001197"
+2596,,,,MACF1,,"SLC16A2, X-linked dominant, Uncertain significance; PCDHB4, unknown / other, Uncertain significance","HP:0002353,HP:0000958,HP:0003764,HP:0001263,HP:0001249,HP:0001256,HP:0000717,HP:0001263,HP:0004305,HP:0100022"
+2620,,,cerebral palsy; MACF1,MACF1,"c.5569 C>T, p.(Arg1857Trp), de novo, Uncertain significance",,"HP:0100021,HP:0001257,HP:0002064,HP:0001288,HP:0001344"
+3699,,,,MACF1,"c.14116G>C, p.(Gly4706Arg), de novo, Pathogenic",,HP:0002538

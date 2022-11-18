@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+877,26092869,,Joubert Syndrome,B9D2,"c.463G>A, p.(Gly155Ser), autosomal recessive (compound heterozygous), Likely pathogenic; c.220C>T, p.(Pro74Ser), autosomal recessive (compound heterozygous), Likely pathogenic",,"HP:0011282,HP:0001252,HP:0001251,HP:0100543,HP:0000496,HP:0002093"
+878,26092869,,Joubert Syndrome,B9D2,"c.107T>C, p.(Leu36Pro), autosomal recessive (homozygous), Likely pathogenic",,"HP:0002093,HP:0001252,HP:0001251,HP:0100543,HP:0000496,HP:0011282"

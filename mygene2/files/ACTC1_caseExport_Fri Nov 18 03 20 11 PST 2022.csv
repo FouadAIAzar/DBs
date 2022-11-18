@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+8,,178110,DA8,ACTC1,"c.595G>A, p.(Gly199Ser), autosomal dominant, Suspected pathogenic",,"HP:0000470,HP:0004322,HP:0005281,HP:0000508,HP:0000369,HP:0001629,HP:0012385,HP:0002650"
+9,,,,ACTC1,"c.1120C>A, p.(Arg374Ser), autosomal dominant, Suspected pathogenic",,"HP:0030148,HP:0002650"
+10,,,,ACTC1,"c.203C>A, p.(Thr68Asn), de novo, Suspected pathogenic",,"HP:0005830,HP:0001371,HP:0009473,HP:0012385"
+1614,,,,ACTC1,"c.56_57insCA, p.(Lys20Argfs*38), unknown / other, Uncertain significance","EP300, c.4969G>T, p.(Glu1657*), unknown / other, Pathogenic","HP:0006101,HP:0000218,HP:0030148,HP:0000028,HP:0012871,HP:0012871,HP:0011968"
+6027,,,,ACTC1,,"ACTA2, autosomal dominant, Risk factor; BRCA1, unknown / other, Uncertain significance; BRCA2, unknown / other, Uncertain significance; APC, autosomal dominant, Uncertain significance",

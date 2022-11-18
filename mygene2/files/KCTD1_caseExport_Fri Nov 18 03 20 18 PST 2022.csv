@@ -1,0 +1,12 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+571,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.89C>A, p.(Ala30Glu), autosomal dominant, Likely pathogenic",,"HP:0002561,HP:0001057,HP:0000598"
+572,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.92C>T, p.(Pro31Leu), autosomal dominant, Likely pathogenic",,"HP:0001057,HP:0002561,HP:0000598"
+573,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.58C>T, p.(Pro20Ser), autosomal dominant, Likely pathogenic",,"HP:0001057,HP:0000598,HP:0002561"
+574,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.99C>A, p.(His33Gln), de novo, Likely pathogenic",,"HP:0000598,HP:0002561,HP:0001057"
+575,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.98A>C, p.(His33Pro), autosomal dominant, Likely pathogenic",,"HP:0002561,HP:0001057,HP:0000598"
+576,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.92C>A, p.(Pro31His), X-linked dominant, Uncertain significance",,"HP:0002561,HP:0000598,HP:0001057"
+577,,181270,Scalp-ear-nipple syndrome,KCTD1,"c. 92C>G, p.(Pro31Arg), de novo, Likely pathogenic",,"HP:0001057,HP:0000598,HP:0002561"
+578,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.221A>C, p.(His74Pro), de novo, Likely pathogenic",,"HP:0002561,HP:0001057,HP:0000598"
+579,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.185G>A, p.(Gly62Asp), autosomal dominant, Likely pathogenic",,"HP:0000598,HP:0001057,HP:0002561"
+580,,181270,Scalp-ear-nipple syndrome,KCTD1,"c.207C>A, p.(Asp69Glu), de novo, Likely pathogenic",,"HP:0002561,HP:0000598,HP:0001057"
+1708,,,,KCTD1,,,"HP:0000769,HP:0000598,HP:0001574"

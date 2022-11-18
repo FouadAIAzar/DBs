@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3489,,,chromosome 8q21.11 deletion syndrome,ZFHX4,,"PEX2, unknown / other, Likely pathogenic","HP:0410030,HP:0000202"
+5682,,,"Heterozygous for a variant of uncertain significance in ZFHX4 gene, c.2126_2127dup p.(T710Lfs*16) , Global Developmental Delay, Non-Verbal, Food aversions, sensory disorders",ZFHX4,"c.2126_2127dup, p.(Thr710Leufs*16), de novo, Uncertain significance",,"HP:0001776,HP:0001762,HP:0001662,HP:0045025,HP:0000316"

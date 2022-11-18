@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+166,,,Bohring-Opitz syndrome,ASXL1,"c.1249C>T, p.(Arg417*), de novo, Likely pathogenic",,"HP:0001249,HP:0001270,HP:0012537,HP:0002194,HP:0000998,HP:0001324"
+395,,605039,Bohring-Opitz syndrome,ASXL1,"c.2332C>T, p.(Gln778*), de novo, Likely pathogenic",,
+514,,,,ASXL1,,,"HP:0000240,HP:0000271,HP:0001249"

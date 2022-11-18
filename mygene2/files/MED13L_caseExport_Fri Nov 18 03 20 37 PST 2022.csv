@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+292,,,MED13L,MED13L,,,
+3513,,,,MED13L,,"TENM2, unknown / other, Uncertain significance","HP:0012514,HP:0012531,HP:0030148,HP:0000750,HP:0010522"
+3585,,,MED13L Syndrome,MED13L,"c.1684C>T, p.(Gln562*), de novo, Pathogenic",,"HP:0002186,HP:0000750,HP:0001250"
+3990,,,MED13L Syndrome,MED13L,"c.1318 C>T, p.(Arg440*), de novo, Likely benign",,"HP:0000776,HP:0100790"

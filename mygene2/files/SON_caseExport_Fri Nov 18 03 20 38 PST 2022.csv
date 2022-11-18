@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+526,,,,SON,,,"HP:0000504,HP:0001249"
+2812,,,ZTTK syndrome,SON,,,"HP:0002126,HP:0002539,HP:0001250,HP:0001332,HP:0001290,HP:0001263,HP:0000545"
+3426,,,ZTTK syndrome,SON,"c.1359G>T, p.(Leu453Phe), autosomal dominant, Uncertain significance","TNXB, autosomal recessive (compound heterozygous,  2nd variant unknown); TNXB, c.5491G>A, p.(Val1831Met), autosomal recessive (compound heterozygous,  2nd variant unknown); TNXB, c.1480A>T, p.(Thr494Ser), autosomal recessive (compound heterozygous,  2nd variant unknown)","HP:0001263,HP:0000717"
+3658,,,,SON,"c.1326_1329del, p.(Val443Hisfs*31), de novo, Pathogenic",,HP:0000256

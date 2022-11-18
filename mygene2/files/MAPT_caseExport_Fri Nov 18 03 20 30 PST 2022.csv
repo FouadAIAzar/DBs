@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+4134,,,Parkinson disease 21,MAPT,"c.671T>G, p.(Val224Gly), autosomal dominant, Uncertain significance","ABCA7, c.4006T>C, p.(Trp1336Arg), autosomal recessive (compound heterozygous), Uncertain significance; ABCA7, c.4795G>A, p.(Val1599Met), autosomal recessive (compound heterozygous), Uncertain significance","HP:0002145,HP:0000726"
+5693,,,frontotemporal dementia,MAPT,"c.619G>A, p.(Gly207Ser), unknown / other, Uncertain significance",,"HP:0002145,HP:0000726"
+5701,,,FTD,MAPT,"c.619G>A, p.(Gly207Ser), autosomal dominant, Uncertain significance",,"HP:0002145,HP:0000726"

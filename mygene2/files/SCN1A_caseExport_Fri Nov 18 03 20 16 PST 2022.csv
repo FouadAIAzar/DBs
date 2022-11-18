@@ -1,0 +1,10 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+545,,,,SCN1A,,,"HP:0000504,HP:0001249"
+1284,,,,SCN1A,"c.2234 T>G, p.(Phe745Cys), unknown / other, Likely pathogenic","ATAD3B, c.482 A>G, p.(Glu161Gly), unknown / other, Likely pathogenic; ACTG2, c.752 T>C, p.(Ile251Thr), unknown / other, Likely pathogenic; KIF1B, unknown / other, Suspected pathogenic; MECR, unknown / other, Uncertain significance; SCN5A, c.647C>T, p.(Ser216Leu), unknown / other, Uncertain significance; SCN5A, c.1914C>T, p.(=), unknown / other, Uncertain significance; KCNH2, c.2690A>C, p.(Lys897Thr), unknown / other, Uncertain significance","HP:0003737,HP:0000668,HP:0002558,HP:0001250,HP:0000717,HP:0001251"
+1489,,,Dravet Syndrome,SCN1A,,,"HP:0001250,HP:0001250,HP:0001250"
+2259,,,Epilepsy,SCN1A,"c.4834G>A, p.(Val1612Ile), autosomal dominant, Uncertain significance",,"HP:0000750,HP:0011172,HP:0001250"
+3580,,,,SCN1A,,,
+3972,,,epilepsy,SCN1A,"c.2508C>A, p.(=), autosomal dominant, Likely pathogenic","CLCN2, c.2063G>A, p.(Arg688Gln), autosomal dominant, Uncertain significance","HP:0031951,HP:0001250,HP:0100765,HP:0030812"
+5203,,,GGE,SCN1A,"c.1819T>A, p.(Ser607Thr), autosomal dominant, Uncertain significance",,HP:0001250
+5582,,,Dravet syndrome,SCN1A,"c.345 T>A, p.(Asn115Lys), de novo, Pathogenic",,"HP:0001250,HP:0033748"
+5635,,,Dravet syndrome,SCN1A,"c.3965 G>C, p.(Arg1322Thr), autosomal dominant, Pathogenic",,HP:0001250

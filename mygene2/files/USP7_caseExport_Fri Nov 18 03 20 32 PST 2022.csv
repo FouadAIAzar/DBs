@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+265,,,USP7,USP7,"c.1117 C>T, p.(Leu373Phe), de novo, Uncertain significance","RANBP2, c.6535 G>T, p.(Asp2179Tyr), autosomal dominant, Uncertain significance","HP:0001385,HP:0001288,HP:0002500,HP:0000750,HP:0002415,HP:0001263,HP:0002500,HP:0001263,HP:0001250,HP:0002194,HP:0001250,HP:0002194,HP:0001252,HP:0000964,HP:0001288,HP:0002720,HP:0000750,HP:0002500,HP:0001263,HP:0001263,HP:0002194,HP:0002194,HP:0000964,HP:0002720,HP:0000750,HP:0002500,HP:0000639,HP:0010819"
+489,,,,USP7,"c.1175G>A, p.(Gly392Asp), de novo, Uncertain significance",,
+3216,,,,USP7,"c.3043G>A, p.(Glu1015Lys), de novo, Likely pathogenic",,
+5057,,,USP7-Related Disorder,USP7,"c.3154G>C, p.(Gly1052Arg), de novo, Uncertain significance",,"HP:0001642,HP:0000465,HP:0001004,HP:0001252,HP:0002194,HP:0000750,HP:0001270"

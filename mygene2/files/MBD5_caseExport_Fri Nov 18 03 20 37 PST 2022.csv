@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1368,,,,MBD5,"c.1382G>A, p.(Arg461His), unknown / other, Uncertain significance",,
+1403,,,MBD5 Haploinsufficiency,MBD5,"c.1382G>A, p.(Arg461His), unknown / other, Uncertain significance",,"HP:0001250,HP:0000565,HP:0001263,HP:0001252"
+4429,,,,MBD5,,"USP9X, c.4861C>G, p.(Pro1621Ala), X-linked inheritance, Uncertain significance; ATP1A3, de novo, Uncertain significance; POLG, autosomal recessive (compound heterozygous), Uncertain significance","HP:0001883,HP:0001762,HP:0002099,HP:0002791,HP:0033000,HP:0002069,HP:0001250,HP:0031951,HP:0000717,HP:0001337,HP:0000729,HP:0002080,HP:0000486,HP:0000739"
+5859,,,"Autism spectrum disorder, Attention deficit disorder",MBD5,"c.3623 A>C, p.(Asn1208Thr), autosomal dominant, Uncertain significance",,"HP:0000717,HP:0001344"

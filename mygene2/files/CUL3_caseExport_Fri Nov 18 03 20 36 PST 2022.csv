@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1041,24266877,,,CUL3,"c.1206+922T>A, , autosomal dominant, Likely pathogenic",,HP:0000077
+1183,24266877,,,CUL3,"c.1207-12T>A, , autosomal dominant, Likely pathogenic",,HP:0000077
+1219,,,,CUL3,"c.1377+1dupG, , autosomal dominant, Likely pathogenic","ATP6V1B1, c.1394G>A, p.(Arg465His), unknown / other, Uncertain significance",HP:0000077

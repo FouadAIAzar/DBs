@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+730,,,,VARS,,,HP:0001626
+2024,,,,VARS,,,HP:0000707
+4311,,,VARS related disorder,VARS,"c.2767C>T, p.(Arg923Trp), autosomal recessive (compound heterozygous), Uncertain significance; c.3101T>C, p.(Leu1034Pro), autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0012443,HP:0000252,HP:0001252,HP:0001263"

@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1732,,,,SIN3A,,,HP:0003006
+3282,,,WITKOS,SIN3A,"c.1411C>T, p.(Arg471*), unknown / other, Uncertain significance",,"HP:0000458,HP:0001250,HP:0000776,HP:0000776,HP:0100790,HP:0001250,HP:0001382,HP:0000044,HP:0100790,HP:0000135,HP:0000135"
+3297,,,chromosome 15q24 deletion syndrome,SIN3A,"c.1401dupT, p.(Asp468*), de novo, Pathogenic",,"HP:0002527,HP:0000717,HP:0000737,HP:0010535,HP:0002104,HP:0001263,HP:0000752,HP:0002311,HP:0002354,HP:0002360,HP:0011800,HP:0009778,HP:0009381,HP:0000286,HP:0031715,HP:0000486,HP:0002761"
+3300,,,Witteveen-kolk syndrome,SIN3A,,,HP:0008763
+5006,,,Witteveen-Kolk Syndrome,SIN3A,"c.1411 C>T, p.(Arg471*), de novo, Pathogenic",,

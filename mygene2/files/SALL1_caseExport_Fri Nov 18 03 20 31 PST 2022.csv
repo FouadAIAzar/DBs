@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+689,,,,SALL1,,,HP:0000153
+1112,,,,SALL1,"c.518C>T, p.(Pro173Leu), unknown / other, Uncertain significance","PKD2, c.749C>T, p.(Thr250Ile), autosomal dominant, Uncertain significance",HP:0000077
+1113,,,,SALL1,"c.518C>T, p.(Pro173Leu), unknown / other, Uncertain significance",,HP:0000077
+1241,,,,SALL1,"c.1192G>A, p.(Ala398Thr), autosomal dominant, Uncertain significance; c.1324T>G, p.(Ser442Ala), autosomal dominant, Uncertain significance; c.1715C>T, p.(Thr572Met), autosomal dominant, Uncertain significance","PKD1, c.4631T>G, p.(Val1544Gly), autosomal dominant, Uncertain significance; NPHP4, c.3161G>A, p.(Arg1054His), autosomal dominant, Uncertain significance",HP:0000077
+5058,,,Townes-Brocks Syndrome,SALL1,,,"HP:0000365,HP:0002023,HP:0000126,HP:0008619,HP:0000407"

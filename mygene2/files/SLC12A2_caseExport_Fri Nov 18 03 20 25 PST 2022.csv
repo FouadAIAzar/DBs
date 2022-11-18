@@ -1,0 +1,7 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+178,,,,SLC12A2,"c.3076_3086del, p.(Val1026Phefs*2), de novo, Likely pathogenic",,"HP:0001943,HP:0001939,HP:0002878,HP:0002721,HP:0001250"
+2201,,,autism spectrum disorder,SLC12A2,"c.1135_1136delinsCT, p.(Ala379Leu), de novo, Suspected pathogenic",,"HP:0001263,HP:0000729,HP:0009893"
+2268,,,asperger syndrome,SLC12A2,"c.1136C>T, p.(Ala379Val), autosomal recessive (compound heterozygous), Uncertain significance; c.1135G>C, p.(Ala379Pro), autosomal recessive (compound heterozygous), Uncertain significance",,HP:0008763
+2305,,,SLC12A2,SLC12A2,"c. 2938 G>A, , de novo, Uncertain significance",,"HP:0002018,HP:0000952,HP:0000365,HP:0001250,HP:0002572,HP:0000365,HP:0002141,HP:0002013,HP:0001250"
+5073,,,,SLC12A2,"c.2441dupA, p.(Asn814Lysfs*35), autosomal dominant, Uncertain significance","CACNA1C, c.620 T>G, p.(Leu207Arg), autosomal dominant, Uncertain significance",
+5687,,,deaf,SLC12A2,"c.2943T>A, p.(Asp981Glu), de novo, Likely pathogenic",,"HP:0008619,HP:0000407,HP:0000365,HP:0001344"

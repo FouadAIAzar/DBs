@@ -1,0 +1,8 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1353,,,,ZMIZ1,"c.887C>A, p.(Thr296Lys), de novo, Uncertain significance",,"HP:0010230,HP:0004322,HP:0000076,HP:0000193"
+1583,,,,ZMIZ1,"c.899C>T, p.(Thr300Met), de novo, Suspected pathogenic",,"HP:0000297,HP:0000023,HP:0001263,HP:0004279,HP:0001159,HP:0001847,HP:0001822,HP:0002650"
+1987,,,,ZMIZ1,,,HP:0200134
+2657,,,,ZMIZ1,"c.2758dupC, p.(Gln920Profs*34), autosomal dominant, Uncertain significance",,"HP:0000717,HP:0000739,HP:0000750"
+3597,,,,ZMIZ1,"c. 1751 C>A, p.(Ala584Glu), de novo, Uncertain significance",,
+3874,,,ZMIZ1,ZMIZ1,,,
+5654,,,"Epilepsy, prematurity",ZMIZ1,"c.60+5G>T, , unknown / other, Uncertain significance","CPA6, c.641T>C, p.(Leu214Pro), unknown / other, Uncertain significance","HP:0020174,HP:0001250,HP:0032046,HP:0002539,HP:0001622,HP:0002353"

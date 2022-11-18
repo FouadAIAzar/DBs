@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1520,,,,FMR1,,,
+4991,,,,FMR1,,,
+5590,,,autism spectrum disorder,FMR1,,,"HP:0000717,HP:0000729"

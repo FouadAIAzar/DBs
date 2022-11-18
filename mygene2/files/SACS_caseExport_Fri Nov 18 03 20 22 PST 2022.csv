@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1909,,,"TBD, possibly involving SACS, NAGLU, CSPP1, SH3TC2, MT-RNR2",SACS,,"CSPP1, unknown / other, Uncertain significance; NAGLU, unknown / other, Uncertain significance","HP:0001260,HP:0012871,HP:0001251,HP:0001271,HP:0012871,HP:0003202,HP:0007360,HP:0004322"
+3924,,,Ataxia,SACS,"c.696T>A, p.(Asn232Lys), autosomal recessive (compound heterozygous), Uncertain significance; c.10982C>T, p.(Ala3661Val), autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0001251,HP:0002172,HP:0002321"
+5171,,,,SACS,,"APOPT1, c.472 G>A, p.(E158K), autosomal recessive (homozygous), Uncertain significance","HP:0001251,HP:0001152,HP:0007240,HP:0000639,HP:0007133,HP:0040083,HP:0007108,HP:0031951,HP:0003324,HP:0003323,HP:0002370,HP:0002359,HP:0002311,HP:0002172,HP:0002141,HP:0001347,HP:0001276,HP:0001257"

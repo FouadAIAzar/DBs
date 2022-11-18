@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+256,,,ehlers-danlos type III,COL5A2,"c.851 C>T, p.(Pro284Leu), unknown / other, Uncertain significance",,"HP:0012532,HP:0012531,HP:0001388"
+3623,,,"Ehlers-Danlos syndrome, hypermobility type",COL5A2,"c.3733C>T, p.(Pro1245Ser), autosomal dominant, Uncertain significance",,"HP:0000978,HP:0002829,HP:0033050,HP:0002076,HP:0030833,HP:0003416,HP:0012378,HP:0002315,HP:0033345,HP:0033630,HP:0000739,HP:0007018,HP:0008462,HP:0001337,HP:0010890,HP:0000160,HP:0000826,HP:0033188,HP:0001061,HP:0000989,HP:0001009,HP:0000829,HP:0025388,HP:0100829,HP:0000483,HP:0002312"
+5394,,,,COL5A2,"c.1073C>T, , autosomal dominant, Uncertain significance",,

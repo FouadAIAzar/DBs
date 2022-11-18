@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3329,,,Costello syndrome,HRAS,"c.468 C>G, p.(Phe156Leu), de novo, Likely pathogenic",,"HP:0006970,HP:0001622,HP:0000646,HP:0002028,HP:0002014,HP:0002378,HP:0001337,HP:0002090,HP:0000739,HP:0004942,HP:0002617,HP:0000717,HP:0001824,HP:0031273,HP:0012531"
+3589,,,Costello syndrome,HRAS,"c.466T>C, p.(Phe156Leu), unknown / other, Uncertain significance",,"HP:0001371,HP:0000347,HP:0040309,HP:0000158,HP:0001385,HP:0001838,HP:0001250,HP:0002791,HP:0001263,HP:0000238,HP:0002987"
+3590,,,Costello syndrome,HRAS,"c.466T>C, p.(Phe156Leu), unknown / other, Uncertain significance",,"HP:0001943,HP:0001638"

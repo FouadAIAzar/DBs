@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2168,,,Intellectual disability 21,CTCF,"c.1079G>A, p.(Ser360Asn), de novo, Likely pathogenic",,"HP:0000577,HP:0002020,HP:0001537,HP:0011968,HP:0000160,HP:0000219"
+2844,,,CTCF related disorder,CTCF,"c.1623 C>G, p.(His541Gln), de novo, Likely pathogenic",,"HP:0001250,HP:0000504,HP:0011968"
+3565,,,,CTCF,"c. 1700G>T, p.(Arg567Leu), unknown / other, Uncertain significance",,

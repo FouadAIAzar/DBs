@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1710,,,,LOX,,,HP:0001626
+3245,,,,LOX,"c.840 C>A, p.(Ser280Arg), autosomal dominant, Uncertain significance","NEFH, c.767delA, p.(Gln256Argfs*8), autosomal dominant, Uncertain significance; RYR1, c.3103 C>T, p.(Arg1035Trp), autosomal dominant, Uncertain significance","HP:0001324,HP:0001324,HP:0003473,HP:0012378,HP:0001251"
+4107,,,,LOX,"c.153C>A, p.(Asn51Lys), de novo, Uncertain significance",,
+5802,,,,LOX,"c.570_571insCTTT, p.(Glu191Leufs*2), autosomal dominant, Likely pathogenic","PYGM, c.148C>T, p.(Arg50*), autosomal recessive (compound heterozygous), Uncertain significance; PYGM, c.1267G>A, p.(Val423Ile), autosomal recessive (compound heterozygous), Uncertain significance; COG4, c.529C>T, p.(Arg177*), unknown / other, Likely pathogenic","HP:0001252,HP:0025406,HP:0012378,HP:0100790,HP:0000717,HP:0007018"

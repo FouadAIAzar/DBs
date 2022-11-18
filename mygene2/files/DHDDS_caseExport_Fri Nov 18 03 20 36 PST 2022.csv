@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+2209,,,DEVELOPMENTAL DELAY AND SEIZURES WITH OR WITHOUT MOVEMENT ABNORMALITIES; DEDSM,DHDDS,"c.404T>C, p.(Ile135Thr), autosomal dominant, Suspected pathogenic",,"HP:0001250,HP:0001263,HP:0100022"
+2835,,,developmental delay and seizures with or without movement abnormalities,DHDDS,"c.161_162delGCinsAA, p.(Gly54Glu), de novo, Likely pathogenic",,"HP:0001249,HP:0001337"
+4011,,,"DHDDS related disorder, Developmental Delay and Seizures with movement disorder",DHDDS,"c.614G>A, p.(Arg205GIn), de novo, Likely pathogenic",,"HP:0002355,HP:0001263,HP:0001249,HP:0000767,HP:0001337,HP:0002317"

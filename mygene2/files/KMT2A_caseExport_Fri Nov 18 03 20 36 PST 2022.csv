@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+547,,,,KMT2A,,,"HP:0001249,HP:0000240,HP:0000271"
+1382,,,,KMT2A,"c.3422C>T, p.(Pro1141Leu), unknown / other, Uncertain significance",,
+1893,,,Autism,KMT2A,"c.5513C>T, p.(Pro1838Leu), autosomal recessive (compound heterozygous), Uncertain significance; c.10850T>C, p.(Leu3617Pro), autosomal recessive (compound heterozygous), Uncertain significance",,HP:0000729
+3561,,,,KMT2A,"c.6794C>T, p.(Thr2265Ile), unknown / other, Uncertain significance","KCNT1, c.773G>A, p.(Arg258His), unknown / other, Uncertain significance; TRRAP, c.9032C>T, p.(Ala3011Val), unknown / other, Uncertain significance; AGO2, c.2375G>A, p.(Arg792His), unknown / other, Uncertain significance","HP:0001252,HP:0000252,HP:0001263,HP:0000717,HP:0000729"

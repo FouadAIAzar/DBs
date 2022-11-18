@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+213,,,,MAGEL2,"c.187delC, p.(Gln63Serfs*36), unknown / other, Likely pathogenic",,"HP:0010751,HP:0002015,HP:0001263,HP:0001371,HP:0002104,HP:0002835"
+283,,,Magel2 AKA PWLS now known as Schaaf-Yang Syndrome,MAGEL2,,,
+1480,,,intellectual disability,MAGEL2,"c.3017C>G, p.(Thr1006Ser), unknown / other, Uncertain significance",,"HP:0000729,HP:0001249"
+2257,,,,MAGEL2,"c.1996dup, p.(=), de novo, Likely pathogenic",,"HP:0010751,HP:0002104,HP:0001371,HP:0002020,HP:0200136"
+2869,,,Arthrogryposis,MAGEL2,,,

@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1805,,,,SMARCA2,,,HP:0000707
+2396,,,DDX3X,SMARCA2,"c.677A>C, p.(Gln226Pro), autosomal dominant, Uncertain significance","SMARCA4, c.2402G>A, p.(Arg801His), autosomal dominant, Uncertain significance; DDX3X, c.1371_1382delinsCTC, p.(Glu458_Leu461delinsSer), de novo, Likely pathogenic","HP:0000717,HP:0010522,HP:0100543,HP:0000718,HP:0100753"

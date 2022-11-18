@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+144,,,TUBB3 Amino Acid Substitution G71R,TUBB3,"c.211G>A, p.(Gly71Arg), de novo, Pathogenic","SLC26A4, c.1614+1G>A, unknown / other, Pathogenic; HUWE1, c.7066C>T, p.(Leu2356Phe), de novo, Likely pathogenic","HP:0002013,HP:0001263,HP:0000365,HP:0001252,HP:0012443,HP:0003457,HP:0002459,HP:0000873,HP:0001491,HP:0001249"
+4475,,,"Congenital Fibrosis of the Extraocular Muscles Type 3, TUBB3 mutation",TUBB3,"c.785 G>A, p.(Arg262His), de novo, Pathogenic",,"HP:0001188,HP:0001371,HP:0012820,HP:0001605,HP:0003470,HP:0001601,HP:0001332,HP:0000609,HP:0006989,HP:0001491,HP:0000508,HP:0030319,HP:0025406,HP:0001392,HP:0002098,HP:0002791"
+5061,,,,TUBB3,"c.572_574del, p.(Gln191del), de novo, Pathogenic","COL4A2, c.2488G>A, p.(Gly830Ser), autosomal dominant, Uncertain significance",
+5402,,,,TUBB3,"c.421G>A, p.(Gly141Ser), de novo, Likely pathogenic",,

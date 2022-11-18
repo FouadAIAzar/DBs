@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1582,,208900,"ataxia telangiectasia,Ataxia-Telangiectasia,Ataxia-telangiectasia syndrome",ATM,"c.1260C>T, p.(Pro292Leu), autosomal recessive (compound heterozygous), Suspected pathogenic; c.7064C>T, p.R2227C, autosomal recessive (compound heterozygous), Suspected pathogenic",,
+2088,,,MOPD with intraventricular cysts,ATM,,,"HP:0000707,HP:0000152,HP:0001507,HP:0000924"
+2364,,,,ATM,"c.3634T>G, p.(Ser1212Ala), autosomal recessive (compound heterozygous), Uncertain significance; c.9113A>T, p.(Gln3038Leu), autosomal recessive (compound heterozygous), Uncertain significance","APC2, c.3757C>T, p.(Pro1253Ser), autosomal recessive (compound heterozygous), Uncertain significance; APC2, c.3035G>A, p.(Gly1012Asp), autosomal recessive (compound heterozygous), Uncertain significance","HP:0001263,HP:0002376,HP:0004482,HP:0000256,HP:0000076,HP:0002072,HP:0001332,HP:0001250"

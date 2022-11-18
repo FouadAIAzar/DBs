@@ -1,0 +1,6 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+3804,,,,ABCA7,,"ABCG2, unknown / other, Suspected pathogenic",HP:0009124
+3805,,,,ABCA7,,"LMNA, unknown / other, Uncertain significance; FBN1, unknown / other, Suspected pathogenic",HP:0009124
+3807,,,,ABCA7,,"SYNE1, unknown / other, Uncertain significance; SYNE2, unknown / other, Suspected pathogenic",HP:0009124
+3808,,,,ABCA7,,"DMD, unknown / other, Uncertain significance; FBN1, unknown / other, Suspected pathogenic",HP:0009124
+4134,,,Parkinson disease 21,ABCA7,"c.4006T>C, p.(Trp1336Arg), autosomal recessive (compound heterozygous), Uncertain significance; c.4795G>A, p.(Val1599Met), autosomal recessive (compound heterozygous), Uncertain significance","MAPT, c.671T>G, p.(Val224Gly), autosomal dominant, Uncertain significance","HP:0002145,HP:0000726"

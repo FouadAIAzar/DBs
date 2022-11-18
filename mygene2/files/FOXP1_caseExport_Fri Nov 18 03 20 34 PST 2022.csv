@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1781,,,,FOXP1,,,HP:0000707
+2270,,,FOXP1,FOXP1,,,"HP:0000256,HP:0001276,HP:0001276,HP:0002007,HP:0000954,HP:0000431,HP:0001355,HP:0000256,HP:0000717,HP:0011090,HP:0001263"
+3194,,,,FOXP1,"c.1342_1343, p.(Ser448Ter), de novo, Pathogenic",,

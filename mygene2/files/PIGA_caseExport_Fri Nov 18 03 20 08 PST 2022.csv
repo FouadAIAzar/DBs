@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1662,,,multiple congenital anomalia hypotonia siesures syndrome,PIGA,"c.971G>T, p.(Cys324Phe), X-linked recessive, Likely pathogenic",,HP:0001249
+5207,,,,PIGA,"c.694 A>T, p.(Ser232Cys), X-linked inheritance, Uncertain significance","PPP3CA, c.702 C>A, p.(Asp234Glu), autosomal recessive (compound heterozygous), Uncertain significance","HP:0002133,HP:0011343,HP:0002123,HP:0200134,HP:0011968,HP:0002119,HP:0012469,HP:0011344,HP:0002069,HP:0011342,HP:0002020,HP:0008872,HP:0002019,HP:0008347,HP:0001344,HP:0007015,HP:0001298,HP:0007010,HP:0001263,HP:0006956,HP:0001250,HP:0003739,HP:0001249,HP:0002376,HP:0000750,HP:0002197,HP:0000733,HP:0002194,HP:0000256"

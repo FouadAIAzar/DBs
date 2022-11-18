@@ -1,0 +1,3 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+5149,,,PAK3 genetic variation,PAK3,"c.1004>A, p.(Gly335Asp), X-linked inheritance, Uncertain significance",,"HP:0000717,HP:0010864,HP:0001249,HP:0000718,HP:0002307"
+5468,,,Sudden infant death syndrome,PAK3,"c.407G>A, p.(Arg136Gln), X-linked recessive, Uncertain significance","HTR4, c.*103C>G, p.(=), de novo, Uncertain significance",HP:0001699

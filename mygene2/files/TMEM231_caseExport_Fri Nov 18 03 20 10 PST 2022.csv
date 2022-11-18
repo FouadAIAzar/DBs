@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+735,,,,TMEM231,"c.784G>A, p.(Asp262Asn), autosomal recessive (homozygous), Pathogenic",,"HP:0002171,HP:0011398,HP:0001939,HP:0001263,HP:0000817,HP:0011098,HP:0002171,HP:0011098"
+1592,,,Joubert syndrome,TMEM231,"c.74T>A, p.(Met25Lys), autosomal recessive (compound heterozygous), Uncertain significance; c.784G>A, p.(Asp262Asn), autosomal recessive (compound heterozygous), Uncertain significance",,"HP:0001252,HP:0002789"
+1597,,614970,"Joubert syndrome 20,Joubert Syndrome 20",TMEM231,"c.625G>A, p.(Asp209Asn), autosomal recessive (compound heterozygous), Pathogenic; c.12T>A, p.(Tyr4*), autosomal recessive (compound heterozygous), Pathogenic",,
+1598,,,Joubert syndrome,TMEM231,"c.625G>A, p.(Asp209Asn), autosomal recessive (homozygous), Pathogenic",,

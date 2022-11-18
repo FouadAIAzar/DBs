@@ -1,0 +1,4 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1733,,,,SMAD2,,,HP:0001626
+3901,,,Ectodermal dysplasia & Loey's dietz syndrome,SMAD2,,"LEF1, de novo, Likely pathogenic",
+5855,,,Hypermobility Spectrum Disorder,SMAD2,"c.613A>G, p.(Asn205Asp), autosomal dominant, Uncertain significance","NOTCH1, c.3598G>A, p.(Asp1200Asn), autosomal dominant, Uncertain significance","HP:0000717,HP:0000716,HP:0033676,HP:0000739,HP:0000722,HP:0002487,HP:0012378,HP:0000707,HP:0033037,HP:0001369,HP:0012532,HP:0033050,HP:0001763,HP:0012332,HP:0002527"

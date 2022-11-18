@@ -1,0 +1,5 @@
+MyGene2 profile,Pubmed ID,OMIM,Condition,Gene Name,Genetic variant(s),Other Genetic Variant(s),Phenotypes
+1362,,,Lamb Shaffer Syndrome,SOX5,,,
+1646,,,SOX5,SOX5,,,"HP:0002104,HP:0010535,HP:0001252,HP:0002020,HP:0012469,HP:0001250,HP:0011097,HP:0012715,HP:0009830,HP:0000365"
+1938,,,Lamb Shaffer Syndrome,SOX5,"c.622C>T, p.(Gln208*), de novo, Pathogenic",,"HP:0000717,HP:0001863,HP:0002312,HP:0000750"
+3558,,,Lamb-Shaffer syndrome,SOX5,"c.637C>T, p.(Arg213*), autosomal dominant, Likely pathogenic",,
