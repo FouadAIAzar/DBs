@@ -19,8 +19,12 @@ def page_parser(url):
     while True:
         try:
             response = requests.get(url)
+            if 'This website is under heavy load (queue full)' in response.text:
+                time.sleep(3)
+                continue
             break
-        except:
+        except Exception as e:
+            print(e)
             time.sleep(1)
             continue
 
@@ -48,10 +52,17 @@ def page_parser(url):
                 file.write(result_row)
 
 def run(download, line_list):
-    with concurrent.futures.ThreadPoolExecutor() as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=32) as executor:
         results = list(tqdm(executor.map(download, line_list), total=len(line_list)))
     return results
 
 if __name__ == "__main__":
     page_list = pagination_creator(320000)
-    run(page_parser,page_list)
+    start= 0
+    end = 1000
+    for i in range(1,331):
+        print(start,end)
+        run(page_parser,page_list[start:end])
+
+        start+=1000
+        end+=1000
