@@ -58,9 +58,9 @@ def run(download, line_list):
 
 if __name__ == "__main__":
     page_list = pagination_creator(320000)
-    start= 0
-    end = 1000
-    for i in range(1,331):
+    start= 116000
+    end = 117000
+    for i in range(106,331):
         print(start,end)
         run(page_parser,page_list[start:end])
 
