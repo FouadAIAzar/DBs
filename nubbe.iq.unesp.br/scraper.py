@@ -58,37 +58,87 @@ for substancia in substancia_array:
     response = requests.get(f'https://nubbe.iq.unesp.br/portal/do/Query?service=21&id={id}')
     soup = BeautifulSoup(response.text,'xml')
     substancia_1 = soup.select('substancia')[0]
-    Common_Name = substancia_1.select('nome')[0].string
+    try:
+        Common_Name = substancia_1.select('nome')[0].string
+    except:
+        Common_Name = 'NA'
     try:
         nome_iupac = substancia_1.select('nome_iupac')[0].string
     except:
         nome_iupac = ''
-    inchi = substancia_1.select('inchi')[0].string
-    inchikey = substancia_1.select('inchikey')[0].string.replace('\n','')
+    try:
+        inchi = substancia_1.select('inchi')[0].string
+    except:
+        inchi = 'NA'
+    try:
+        inchikey = substancia_1.select('inchikey')[0].string.replace('\n','')
+    except:
+        inchikey = 'NA'
     try:
         classe = substancia_1.select('classe')[0].string.replace('\n','')
     except:
         classe = ''
-    formol = substancia_1.select('formol')[0].string.replace('\n','')
-    smiles = substancia_1.select('smiles')[0].string.replace('\n','')
-    massa_molar = substancia_1.select('massa_molar')[0].string.replace('\n','')
-    massa_monoisotopica = substancia_1.select('massa_monoisotopica')[0].string.replace('\n','')
-    logp = substancia_1.select('logp')[0].string.replace('\n','')
-    tpsa = substancia_1.select('tpsa')[0].string.replace('\n','')
-    nvlr = substancia_1.select('nvlr')[0].string.replace('\n','')
-    non = substancia_1.select('non')[0].string.replace('\n','')
-    nohnh = substancia_1.select('nohnh')[0].string.replace('\n','')
-    nrotb = substancia_1.select('nrotb')[0].string.replace('\n','')
-    mol_vol = substancia_1.select('mol_vol')[0].string.replace('\n','')
-    ativ_bio = substancia_1.select('ativ_bio')
+    try:
+        formol = substancia_1.select('formol')[0].string.replace('\n','')
+    except:
+        formal = 'NA'
+    try:
+        smiles = substancia_1.select('smiles')[0].string.replace('\n','')
+    except:
+        smiles = 'NA'
+    try:
+        massa_molar = substancia_1.select('massa_molar')[0].string.replace('\n','')
+    except:
+        massa_molar = 'NA'
+    try:
+        massa_monoisotopica = substancia_1.select('massa_monoisotopica')[0].string.replace('\n','')
+    except:
+        massa_monoisotopica = 'NA'
+    try:
+        logp = substancia_1.select('logp')[0].string.replace('\n','')
+    except:
+        logp = 'NA'
+    try:
+        tpsa = substancia_1.select('tpsa')[0].string.replace('\n','')
+    except:
+        tpsa = 'NA'
+    try:
+        nvlr = substancia_1.select('nvlr')[0].string.replace('\n','')
+    except:
+        nvlr = 'NA'
+    try:
+        non = substancia_1.select('non')[0].string.replace('\n','')
+    except:
+        non = 'NA'
+    try:
+        nohnh = substancia_1.select('nohnh')[0].string.replace('\n','')
+    except:
+        nohnh = 'NA'
+    try:
+        nrotb = substancia_1.select('nrotb')[0].string.replace('\n','')
+    except:
+        nrotb = 'NA'
+    try:
+        mol_vol = substancia_1.select('mol_vol')[0].string.replace('\n','')
+    except:
+        mol_vol = 'NA'
+    try:
+        ativ_bio = substancia_1.select('ativ_bio')
+    except:
+        ativ_bio = []
     Biological_properties = ''
     for bio in ativ_bio:
-        which = bio.select('which')[0].string
-        
-        which1 = base_data[which]
+        try:
+            which = bio.select('which')[0].string
+            which1 = base_data[which]
+        except:
+            which1 = 'NA'
         Biological_properties = f'{Biological_properties};{which1};'
     Biological_properties = Biological_properties[1:-1].replace(';;',';')
-    tipo = substancia_1.select('tipo')[0].string
+    try:
+        tipo = substancia_1.select('tipo')[0].string
+    except:
+        tipo = 'NA'
     file_list = substancia_1.select('nome_arq')
     for file in file_list:
         file = file.string
