@@ -113,18 +113,25 @@ def download(page):
     mol_list = soup.select('div.buttonlink.ml-2 a')
     for mol in mol_list:
         mol_name = mol.string
-        print(mol_name)
         if '2D' in mol_name:
             mol_url = mol['href']
             mol_url2 = f'https://cb.imsc.res.in{mol_url}'
             mol_file_name = mol_url.split('/')[-1]
-            urllib.request.urlretrieve(mol_url2, f'mol_files\\{mol_file_name}')
+            while True:
+                try:
+                    urllib.request.urlretrieve(mol_url2, f'mol_files\\{mol_file_name}')
+                    break
+                except:
+                    time.sleep(1)
+                    continue
     
     with file_write_lock:
         with open('output.csv','a',newline='',encoding='utf8') as f:
             writer=csv.writer(f)
             mystuff = [impat_type,phytochmecial,Synonymous_chemical_names,External_chemical_identifiers,smiles,InChI,InChIKey,DeepSMILES,Functional_groups,ClassyFire_Kingdom,ClassyFire_Superclass,ClassyFire_Class,ClassyFire_Subclass,NP_Classifier_Biosynthetic_pathway,NP_Classifier_Superclass,NP_Classifier_Class,NP_Likeness_score]
             writer.writerow(mystuff)
+page_list = pagination_creator(17968)
 
-for page in pagination_creator(2):
+for page in page_list:
+    print(page)
     download(page)
